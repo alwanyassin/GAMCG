@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 </head>
+
 <body>
     <div class="container mt-5">
         <h1 class="text-center">Google Ad Manager Script Generator</h1>
@@ -50,12 +52,15 @@
                     <label class="form-check-label" for="mobileTopHome">mobileTopHome => [320, 100]</label>
                 </div>
                 <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="mobileBottomBannerHome" value="mobileBottomBannerHome">
-                    <label class="form-check-label" for="mobileBottomBannerHome">mobileBottomBannerHome => [300, 600],[320, 480],[300, 250]</label>
+                    <input class="form-check-input" type="checkbox" id="mobileBottomBannerHome"
+                        value="mobileBottomBannerHome">
+                    <label class="form-check-label" for="mobileBottomBannerHome">mobileBottomBannerHome => [300,
+                        600],[320, 480],[300, 250]</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="desktopTopHome" value="desktopTopHome">
-                    <label class="form-check-label" for="desktopTopHome">desktopTopHome => [970, 250],[970, 90],[728, 250],[728, 90]</label>
+                    <label class="form-check-label" for="desktopTopHome">desktopTopHome => [970, 250],[970, 90],[728,
+                        250],[728, 90]</label>
                 </div>
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="desktopGiantHome" value="desktopGiantHome">
@@ -71,7 +76,7 @@
             <button id="copyMobile" class="btn btn-sm btn-secondary">Copy</button>
         </h2>
         <pre id="mobileGeneratedScript" class="bg-light p-3 border"></pre>
-        
+
         <h2 class="mt-5 d-flex justify-content-between align-items-center">
             Generated Script for Desktop
             <button id="copyDesktop" class="btn btn-sm btn-secondary">Copy</button>
@@ -88,7 +93,7 @@
         const adUnits = [
             "ayobandung.com", "ayojakarta.com", "ayojogja.com", "ayobogor.com", "ayosemarang.com"
         ];
-    
+
         // Initialize Ad Unit Select with Search Feature
         $(document).ready(() => {
             $('#adUnit').select2({
@@ -97,7 +102,7 @@
                 allowClear: true
             });
         });
-    
+
         // Key Value Slot Sizes
         const keyValueSlotSizes = {
             "mobileTopHome": [[320, 100]],
@@ -105,94 +110,95 @@
             "desktopTopHome": [[970, 250], [970, 90], [728, 250], [728, 90]],
             "desktopGiantHome": [[300, 600]]
         };
-    
+
         // Logika untuk mengatur keyValue yang dapat dipilih berdasarkan Device Category
         document.querySelectorAll('input[type=checkbox][id^="mobile"], input[type=checkbox][id^="desktop"]').forEach(el => {
             el.disabled = true; // Awalnya semua keyValue dimatikan
         });
-    
+
         document.querySelectorAll('input[type=checkbox][id$="m"], input[type=checkbox][id$="d"]').forEach(categoryCheckbox => {
             categoryCheckbox.addEventListener('change', () => {
                 const isMobileSelected = document.getElementById('m').checked;
                 const isDesktopSelected = document.getElementById('d').checked;
-    
+
                 document.querySelectorAll('input[type=checkbox][id^="mobile"]').forEach(el => {
                     el.disabled = !isMobileSelected; // Aktifkan mobile keyValues hanya jika kategori mobile dipilih
                     el.checked = false; // Hapus ceklis otomatis jika sebelumnya aktif
                 });
-    
+
                 document.querySelectorAll('input[type=checkbox][id^="desktop"]').forEach(el => {
                     el.disabled = !isDesktopSelected; // Aktifkan desktop keyValues hanya jika kategori desktop dipilih
                     el.checked = false; // Hapus ceklis otomatis jika sebelumnya aktif
                 });
             });
         });
-    
+
         document.getElementById('scriptForm').addEventListener('submit', (e) => {
-    e.preventDefault();
+            e.preventDefault();
 
-    const akunGAM = document.getElementById('akunGAM').value;
-    const adUnit = $('#adUnit').val();
-    const deviceCategories = Array.from(
-        document.querySelectorAll('input[type=checkbox][id$="m"], input[type=checkbox][id$="d"]:checked')
-    ).map(input => input.value);
+            const akunGAM = document.getElementById('akunGAM').value;
+            const adUnit = $('#adUnit').val();
+            const deviceCategories = Array.from(
+                document.querySelectorAll('input[type=checkbox][id$="m"], input[type=checkbox][id$="d"]:checked')
+            ).map(input => input.value);
 
-    if (!deviceCategories.length) {
-        alert('Pilih setidaknya satu Device Category.');
-        return;
-    }
-
-    const keyValues = Array.from(
-        document.querySelectorAll('input[type=checkbox][id^="mobile"]:checked, input[type=checkbox][id^="desktop"]:checked')
-    ).map(input => input.value);
-
-    if (!keyValues.length) {
-        alert('Pilih setidaknya satu Key Value yang sesuai dengan Device Category.');
-        return;
-    }
-
-    // Filter KeyValues Berdasarkan Device Category
-    const mobileKeyValues = keyValues.filter(keyValue => keyValue.startsWith('mobile'));
-    const desktopKeyValues = keyValues.filter(keyValue => keyValue.startsWith('desktop'));
-
-    const generateScripts = (keyValues, device) => {
-        return keyValues.map(keyValue => {
-            const sizes = keyValueSlotSizes[keyValue];
-            if (!sizes) {
-                console.error(`Slot sizes not found for keyValue: ${keyValue}`);
-                return '';
+            if (!deviceCategories.length) {
+                alert('Pilih setidaknya satu Device Category.');
+                return;
             }
-            const sizesString = JSON.stringify(sizes).replace(/\[|\]/g, "").split(",").map(x => `[${x}]`).join(",");
-            return `googletag.defineSlot('/${akunGAM}/${adUnit}/${device}', [${sizesString}], 'div-gpt-ad-${keyValue}').setTargeting('Position', ['${keyValue}']).addService(googletag.pubads());`;
-        }).join('\n');
-    };
 
-    // Generate scripts for mobile and desktop
-    const mobileScripts = generateScripts(mobileKeyValues, 'mobile');
-    const desktopScripts = generateScripts(desktopKeyValues, 'desktop');
+            const keyValues = Array.from(
+                document.querySelectorAll('input[type=checkbox][id^="mobile"]:checked, input[type=checkbox][id^="desktop"]:checked')
+            ).map(input => input.value);
 
-    // Display scripts in respective areas
-    document.getElementById('mobileGeneratedScript').textContent = mobileScripts || 'No scripts generated for mobile.';
-    document.getElementById('desktopGeneratedScript').textContent = desktopScripts || 'No scripts generated for desktop.';
-});
+            if (!keyValues.length) {
+                alert('Pilih setidaknya satu Key Value yang sesuai dengan Device Category.');
+                return;
+            }
 
-// Copy script functionality
-const copyToClipboard = (elementId) => {
-    const text = document.getElementById(elementId).textContent;
-    navigator.clipboard.writeText(text).then(() => {
-        alert('Script copied to clipboard!');
-    }).catch(err => {
-        console.error('Failed to copy text: ', err);
-    });
-};
+            // Filter KeyValues Berdasarkan Device Category
+            const mobileKeyValues = keyValues.filter(keyValue => keyValue.startsWith('mobile'));
+            const desktopKeyValues = keyValues.filter(keyValue => keyValue.startsWith('desktop'));
 
-document.getElementById('copyMobile').addEventListener('click', () => {
-    copyToClipboard('mobileGeneratedScript');
-});
+            const generateScripts = (keyValues, device) => {
+                return keyValues.map(keyValue => {
+                    const sizes = keyValueSlotSizes[keyValue];
+                    if (!sizes) {
+                        console.error(`Slot sizes not found for keyValue: ${keyValue}`);
+                        return '';
+                    }
+                    const sizesString = JSON.stringify(sizes).replace(/\[|\]/g, "").split(",").map(x => `[${x}]`).join(",");
+                    return `googletag.defineSlot('/${akunGAM}/${adUnit}/${device}', [${sizesString}], 'div-gpt-ad-${keyValue}').setTargeting('Position', ['${keyValue}']).addService(googletag.pubads());`;
+                }).join('\n');
+            };
 
-document.getElementById('copyDesktop').addEventListener('click', () => {
-    copyToClipboard('desktopGeneratedScript');
-});
+            // Generate scripts for mobile and desktop
+            const mobileScripts = generateScripts(mobileKeyValues, 'mobile');
+            const desktopScripts = generateScripts(desktopKeyValues, 'desktop');
+
+            // Display scripts in respective areas
+            document.getElementById('mobileGeneratedScript').textContent = mobileScripts || 'No scripts generated for mobile.';
+            document.getElementById('desktopGeneratedScript').textContent = desktopScripts || 'No scripts generated for desktop.';
+        });
+
+        // Copy script functionality
+        const copyToClipboard = (elementId) => {
+            const text = document.getElementById(elementId).textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                alert('Script copied to clipboard!');
+            }).catch(err => {
+                console.error('Failed to copy text: ', err);
+            });
+        };
+
+        document.getElementById('copyMobile').addEventListener('click', () => {
+            copyToClipboard('mobileGeneratedScript');
+        });
+
+        document.getElementById('copyDesktop').addEventListener('click', () => {
+            copyToClipboard('desktopGeneratedScript');
+        });
     </script>
-    </body>
+</body>
+
 </html>
