@@ -47,6 +47,7 @@
             <!-- Key Value -->
             <div class="mb-3">
                 <label class="form-label">Key Value</label><br>
+                <!-- Home KeyValues -->
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="mobileTopHome" value="mobileTopHome">
                     <label class="form-check-label" for="mobileTopHome">mobileTopHome => [320, 100]</label>
@@ -65,6 +66,46 @@
                 <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="desktopGiantHome" value="desktopGiantHome">
                     <label class="form-check-label" for="desktopGiantHome">desktopGiantHome => [300, 600]</label>
+                </div>
+
+                <!-- Section KeyValues -->
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="mobileTopSection" value="mobileTopSection">
+                    <label class="form-check-label" for="mobileTopSection">mobileTopSection => [320, 100]</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="mobileBottomSection"
+                        value="mobileBottomSection">
+                    <label class="form-check-label" for="mobileBottomSection">mobileBottomSection => [300, 250]</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="desktopTopSection" value="desktopTopSection">
+                    <label class="form-check-label" for="desktopTopSection">desktopTopSection => [728, 90]</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="desktopBottomSection"
+                        value="desktopBottomSection">
+                    <label class="form-check-label" for="desktopBottomSection">desktopBottomSection => [300,
+                        600]</label>
+                </div>
+
+                <!-- Detail KeyValues -->
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="mobileTopDetail" value="mobileTopDetail">
+                    <label class="form-check-label" for="mobileTopDetail">mobileTopDetail => [320, 100]</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="mobileBottomDetail" value="mobileBottomDetail">
+                    <label class="form-check-label" for="mobileBottomDetail">mobileBottomDetail => [300, 250]</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="desktopTopDetail" value="desktopTopDetail">
+                    <label class="form-check-label" for="desktopTopDetail">desktopTopDetail => [728, 90]</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="desktopBottomDetail"
+                        value="desktopBottomDetail">
+                    <label class="form-check-label" for="desktopBottomDetail">desktopBottomDetail => [300, 600]</label>
                 </div>
             </div>
 
@@ -105,10 +146,23 @@
 
         // Key Value Slot Sizes
         const keyValueSlotSizes = {
+            // Home KeyValues
             "mobileTopHome": [[320, 100]],
             "mobileBottomBannerHome": [[300, 600], [320, 480], [300, 250]],
             "desktopTopHome": [[970, 250], [970, 90], [728, 250], [728, 90]],
-            "desktopGiantHome": [[300, 600]]
+            "desktopGiantHome": [[300, 600]],
+
+            // Section KeyValues
+            "mobileTopSection": [[320, 100]],
+            "mobileBottomSection": [[300, 250]],
+            "desktopTopSection": [[728, 90]],
+            "desktopBottomSection": [[300, 600]],
+
+            // Detail KeyValues
+            "mobileTopDetail": [[320, 100]],
+            "mobileBottomDetail": [[300, 250]],
+            "desktopTopDetail": [[728, 90]],
+            "desktopBottomDetail": [[300, 600]]
         };
 
         // Logika untuk mengatur keyValue yang dapat dipilih berdasarkan Device Category
@@ -161,15 +215,49 @@
             const desktopKeyValues = keyValues.filter(keyValue => keyValue.startsWith('desktop'));
 
             const generateScripts = (keyValues, device) => {
-                return keyValues.map(keyValue => {
-                    const sizes = keyValueSlotSizes[keyValue];
-                    if (!sizes) {
-                        console.error(`Slot sizes not found for keyValue: ${keyValue}`);
-                        return '';
-                    }
-                    const sizesString = JSON.stringify(sizes).replace(/\[|\]/g, "").split(",").map(x => `[${x}]`).join(",");
-                    return `googletag.defineSlot('/${akunGAM}/${adUnit}/${device}', [${sizesString}], 'div-gpt-ad-${keyValue}').setTargeting('Position', ['${keyValue}']).addService(googletag.pubads());`;
-                }).join('\n');
+                // Pisahkan keyValues berdasarkan kata kunci (Home, Section, Detail)
+                const homeScripts = keyValues
+                    .filter(keyValue => keyValue.includes('Home'))
+                    .map(keyValue => {
+                        const sizes = keyValueSlotSizes[keyValue];
+                        if (!sizes) {
+                            console.error(`Slot sizes not found for keyValue: ${keyValue}`);
+                            return '';
+                        }
+                        const sizesString = JSON.stringify(sizes).replace(/\[|\]/g, "").split(",").map(x => `[${x}]`).join(",");
+                        return `googletag.defineSlot('/${akunGAM}/${adUnit}/${device}', [${sizesString}], 'div-gpt-ad-${keyValue}').setTargeting('Position', ['${keyValue}']).addService(googletag.pubads());`;
+                    }).join('\n');
+
+                const sectionScripts = keyValues
+                    .filter(keyValue => keyValue.includes('Section'))
+                    .map(keyValue => {
+                        const sizes = keyValueSlotSizes[keyValue];
+                        if (!sizes) {
+                            console.error(`Slot sizes not found for keyValue: ${keyValue}`);
+                            return '';
+                        }
+                        const sizesString = JSON.stringify(sizes).replace(/\[|\]/g, "").split(",").map(x => `[${x}]`).join(",");
+                        return `googletag.defineSlot('/${akunGAM}/${adUnit}/${device}', [${sizesString}], 'div-gpt-ad-${keyValue}').setTargeting('Position', ['${keyValue}']).addService(googletag.pubads());`;
+                    }).join('\n');
+
+                const detailScripts = keyValues
+                    .filter(keyValue => keyValue.includes('Detail'))
+                    .map(keyValue => {
+                        const sizes = keyValueSlotSizes[keyValue];
+                        if (!sizes) {
+                            console.error(`Slot sizes not found for keyValue: ${keyValue}`);
+                            return '';
+                        }
+                        const sizesString = JSON.stringify(sizes).replace(/\[|\]/g, "").split(",").map(x => `[${x}]`).join(",");
+                        return `googletag.defineSlot('/${akunGAM}/${adUnit}/${device}', [${sizesString}], 'div-gpt-ad-${keyValue}').setTargeting('Position', ['${keyValue}']).addService(googletag.pubads());`;
+                    }).join('\n');
+
+                // Gabungkan semua script dengan pembungkus lapisan 1 dan 2
+                return `<script>
+                ${homeScripts ? `@if(home)\n${homeScripts}\n@endif` : ''}
+                ${sectionScripts ? `@if(section)\n${sectionScripts}\n@endif` : ''}
+                ${detailScripts ? `@if(detail)\n${detailScripts}\n@endif` : ''}
+                <\/script>`;
             };
 
             // Generate scripts for mobile and desktop
