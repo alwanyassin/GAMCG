@@ -82,6 +82,10 @@
                     <label class="form-check-label" for="mobileRB4Home">mobileRB4Home => [336,280],[300,250]</label>
                 </div>
                 <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="mobileMegabillboardHome" value="mobileMegabillboardHome">
+                    <label class="form-check-label" for="mobileMegabillboardHome">mobileMegabillboardHome => [320,480]</label>
+                </div>
+                <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="desktopTopHome" value="desktopTopHome">
                     <label class="form-check-label" for="desktopTopHome">desktopTopHome => [970, 250],[970, 90],[728,
                         250],[728, 90]</label>
@@ -175,6 +179,10 @@
                         [336,280],[300,250]</label>
                 </div>
                 <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="mobileMegabillboardSection" value="mobileMegabillboardSection">
+                    <label class="form-check-label" for="mobileMegabillboardSection">mobileMegabillboardSection => [320,480]</label>
+                </div>
+                <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="desktopTopSection" value="desktopTopSection">
                     <label class="form-check-label" for="desktopTopSection">desktopTopSection => [728, 90]</label>
                 </div>
@@ -265,6 +273,10 @@
                         75],[300, 50],[320, 100],[320, 50],[300, 250],[336, 280]</label>
                 </div>
                 <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="mobileMegabillboardDetail" value="mobileMegabillboardDetail">
+                    <label class="form-check-label" for="mobileMegabillboardDetail">mobileMegabillboardDetail => [320,480]</label>
+                </div>
+                <div class="form-check">
                     <input class="form-check-input" type="checkbox" id="desktopTopDetail" value="desktopTopDetail">
                     <label class="form-check-label" for="desktopTopDetail">desktopTopDetail => [728, 90]</label>
                 </div>
@@ -335,19 +347,35 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 
     <script>
-        // Example Ad Unit Data
-        const adUnits = [
-            "ayobandung.com", "ayojakarta.com", "ayojogja.com", "ayobogor.com", "ayosemarang.com"
-        ];
-
         // Initialize Ad Unit Select with Search Feature
         $(document).ready(() => {
+            let adUnits = [];
+
+            // Ambil data JSON sekali saat halaman dimuat
+            $.getJSON('adunits.json', function(data) {
+                adUnits = data;
+            });
+
             $('#adUnit').select2({
-                data: adUnits.map(adUnit => ({ id: adUnit, text: adUnit })),
                 placeholder: "Pilih Ad Unit",
-                allowClear: true
+                allowClear: true,
+                minimumInputLength: 1, // Cari hanya jika user mengetik 1 huruf atau lebih
+                data: [], // Kosongkan data awal
+                ajax: {
+                    transport: function(params, success, failure) {
+                        const term = params.data.term ? params.data.term.toLowerCase() : '';
+                        const filteredData = adUnits.filter(item => 
+                            item.text.toLowerCase().includes(term)
+                        );
+
+                        success({ results: filteredData });
+                    },
+                    delay: 250
+                }
             });
         });
 
@@ -361,6 +389,7 @@
             "mobileRB2Home": [[336, 280], [300, 250]],
             "mobileRB3Home": [[336, 280], [300, 250]],
             "mobileRB4Home": [[336, 280], [300, 250]],
+            "mobileMegabillboardHome": [[320, 480]],
             "desktopTopHome": [[970, 250], [970, 90], [728, 250], [728, 90]],
             "desktopGiantHome": [[300, 600]],
             "desktopSkinAdsLeftHome": [[160, 600], [120, 600]],
@@ -382,6 +411,7 @@
             "mobileRB2Section": [[336, 280], [300, 250]],
             "mobileRB3Section": [[336, 280], [300, 250]],
             "mobileRB4Section": [[336, 280], [300, 250]],
+            "mobileMegabillboardSection": [[320, 480]],
             "desktopTopSection": [[728, 90]],
             "desktopGiantSection": [[300, 600]],
             "desktopSkinAdsLeftSection": [[160, 600], [120, 600]],
@@ -401,6 +431,7 @@
             "mobileRB2Detail": [[336, 280], [300, 250]],
             "mobileRB3Detail": [[336, 280], [300, 250]],
             "mobileUnderImage": [[300, 100], [300, 75], [300, 50], [320, 100], [320, 50], [300, 250], [336, 280]],
+            "mobileMegabillboardDetail": [[320, 480]],
             "desktopTopDetail": [[728, 90]],
             "desktopGiantDetail": [[300, 600]],
             "desktopSkinAdsLeftDetail": [[160, 600], [120, 600]],
@@ -529,10 +560,25 @@
         });
 
         // Copy script functionality
+        // const copyToClipboard = (elementId) => {
+        //     const text = document.getElementById(elementId).textContent;
+        //     navigator.clipboard.writeText(text).then(() => {
+        //         alert('Script copied to clipboard!');
+        //     }).catch(err => {
+        //         console.error('Failed to copy text: ', err);
+        //     });
+        // };
         const copyToClipboard = (elementId) => {
             const text = document.getElementById(elementId).textContent;
             navigator.clipboard.writeText(text).then(() => {
-                alert('Script copied to clipboard!');
+                Swal.fire({
+                    toast: true,
+                    position: 'top-end',
+                    icon: 'success',
+                    title: 'Script copied to clipboard!',
+                    showConfirmButton: false,
+                    timer: 2000
+                });
             }).catch(err => {
                 console.error('Failed to copy text: ', err);
             });

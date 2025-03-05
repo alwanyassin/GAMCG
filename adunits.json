@@ -1,0 +1,6358 @@
+[
+  {
+    "id": "ayoindonesia",
+    "text": "ayoindonesia"
+  },
+  {
+    "id": "kabarrakyat",
+    "text": "kabarrakyat"
+  },
+  {
+    "id": "esnbanten",
+    "text": "esnbanten"
+  },
+  {
+    "id": "suaramerdeka",
+    "text": "suaramerdeka"
+  },
+  {
+    "id": "suaramerdekasolo",
+    "text": "suaramerdekasolo"
+  },
+  {
+    "id": "suaramerdekapantura",
+    "text": "suaramerdekapantura"
+  },
+  {
+    "id": "suaramerdekamuria",
+    "text": "suaramerdekamuria"
+  },
+  {
+    "id": "suaramerdekawawasan",
+    "text": "suaramerdekawawasan"
+  },
+  {
+    "id": "suaramerdekabanyumas",
+    "text": "suaramerdekabanyumas"
+  },
+  {
+    "id": "harianhaluan",
+    "text": "harianhaluan"
+  },
+  {
+    "id": "haluanriau",
+    "text": "haluanriau"
+  },
+  {
+    "id": "haluanmandiri",
+    "text": "haluanmandiri"
+  },
+  {
+    "id": "haluankepri",
+    "text": "haluankepri"
+  },
+  {
+    "id": "skorid",
+    "text": "skorid"
+  },
+  {
+    "id": "mediakepricoid",
+    "text": "mediakepricoid"
+  },
+  {
+    "id": "suaramerdekajepara",
+    "text": "suaramerdekajepara"
+  },
+  {
+    "id": "suaramerdekablora",
+    "text": "suaramerdekablora"
+  },
+  {
+    "id": "suaramerdekajogja",
+    "text": "suaramerdekajogja"
+  },
+  {
+    "id": "suaramerdekapurworejo",
+    "text": "suaramerdekapurworejo"
+  },
+  {
+    "id": "suaramerdekawonogiri",
+    "text": "suaramerdekawonogiri"
+  },
+  {
+    "id": "suaramerdekakedu",
+    "text": "suaramerdekakedu"
+  },
+  {
+    "id": "kicaukicau",
+    "text": "kicaukicau"
+  },
+  {
+    "id": "kicaujabar",
+    "text": "kicaujabar"
+  },
+  {
+    "id": "kicaujakarta",
+    "text": "kicaujakarta"
+  },
+  {
+    "id": "kicaujateng",
+    "text": "kicaujateng"
+  },
+  {
+    "id": "kicaujatim",
+    "text": "kicaujatim"
+  },
+  {
+    "id": "harianmassa",
+    "text": "harianmassa"
+  },
+  {
+    "id": "halloid",
+    "text": "halloid"
+  },
+  {
+    "id": "portalsiber",
+    "text": "portalsiber"
+  },
+  {
+    "id": "ayobekasi",
+    "text": "ayobekasi"
+  },
+  {
+    "id": "ayobogor",
+    "text": "ayobogor"
+  },
+  {
+    "id": "ayopurwakarta",
+    "text": "ayopurwakarta"
+  },
+  {
+    "id": "ayotasik",
+    "text": "ayotasik"
+  },
+  {
+    "id": "ayotegal",
+    "text": "ayotegal"
+  },
+  {
+    "id": "ayomedan",
+    "text": "ayomedan"
+  },
+  {
+    "id": "ayopalembang",
+    "text": "ayopalembang"
+  },
+  {
+    "id": "ayobatang",
+    "text": "ayobatang"
+  },
+  {
+    "id": "ayobanten",
+    "text": "ayobanten"
+  },
+  {
+    "id": "ayojogja",
+    "text": "ayojogja"
+  },
+  {
+    "id": "harianmerapi",
+    "text": "harianmerapi"
+  },
+  {
+    "id": "bicaraberita",
+    "text": "bicaraberita"
+  },
+  {
+    "id": "jatimnetwork",
+    "text": "jatimnetwork"
+  },
+  {
+    "id": "hallodepok",
+    "text": "hallodepok"
+  },
+  {
+    "id": "halloseleb",
+    "text": "halloseleb"
+  },
+  {
+    "id": "hallosukabumi",
+    "text": "hallosukabumi"
+  },
+  {
+    "id": "hallotasik",
+    "text": "hallotasik"
+  },
+  {
+    "id": "ayomalang",
+    "text": "ayomalang"
+  },
+  {
+    "id": "ayopontianak",
+    "text": "ayopontianak"
+  },
+  {
+    "id": "medium",
+    "text": "medium"
+  },
+  {
+    "id": "jembernetwork",
+    "text": "jembernetwork"
+  },
+  {
+    "id": "surabayanetwork",
+    "text": "surabayanetwork"
+  },
+  {
+    "id": "ceritadepok",
+    "text": "ceritadepok"
+  },
+  {
+    "id": "hallomalang",
+    "text": "hallomalang"
+  },
+  {
+    "id": "hallojatim",
+    "text": "hallojatim"
+  },
+  {
+    "id": "hallobanten",
+    "text": "hallobanten"
+  },
+  {
+    "id": "hallolampung",
+    "text": "hallolampung"
+  },
+  {
+    "id": "agtvnews",
+    "text": "agtvnews"
+  },
+  {
+    "id": "beritayudha",
+    "text": "beritayudha"
+  },
+  {
+    "id": "newsmedia",
+    "text": "newsmedia"
+  },
+  {
+    "id": "bicarajabar",
+    "text": "bicarajabar"
+  },
+  {
+    "id": "indikator",
+    "text": "indikator"
+  },
+  {
+    "id": "haibandung",
+    "text": "haibandung"
+  },
+  {
+    "id": "beritasenator",
+    "text": "beritasenator"
+  },
+  {
+    "id": "kontenjateng",
+    "text": "kontenjateng"
+  },
+  {
+    "id": "klikaktual",
+    "text": "klikaktual"
+  },
+  {
+    "id": "portalrepublik",
+    "text": "portalrepublik"
+  },
+  {
+    "id": "sabakota",
+    "text": "sabakota"
+  },
+  {
+    "id": "jabodetabek",
+    "text": "jabodetabek"
+  },
+  {
+    "id": "kulturnativ",
+    "text": "kulturnativ"
+  },
+  {
+    "id": "smolid",
+    "text": "smolid"
+  },
+  {
+    "id": "hallomadura",
+    "text": "hallomadura"
+  },
+  {
+    "id": "hallobisnis",
+    "text": "hallobisnis"
+  },
+  {
+    "id": "ayokampus",
+    "text": "ayokampus"
+  },
+  {
+    "id": "otojurnalis",
+    "text": "otojurnalis"
+  },
+  {
+    "id": "ayojakarta",
+    "text": "ayojakarta"
+  },
+  {
+    "id": "ayosemarang",
+    "text": "ayosemarang"
+  },
+  {
+    "id": "ayosurabaya",
+    "text": "ayosurabaya"
+  },
+  {
+    "id": "ayobandung",
+    "text": "ayobandung"
+  },
+  {
+    "id": "radiowebindo",
+    "text": "radiowebindo"
+  },
+  {
+    "id": "otonetters",
+    "text": "otonetters"
+  },
+  {
+    "id": "otowhel",
+    "text": "otowhel"
+  },
+  {
+    "id": "sangalu",
+    "text": "sangalu"
+  },
+  {
+    "id": "otoxplor",
+    "text": "otoxplor"
+  },
+  {
+    "id": "giwangkara",
+    "text": "giwangkara"
+  },
+  {
+    "id": "titiktemu",
+    "text": "titiktemu"
+  },
+  {
+    "id": "fokusberita",
+    "text": "fokusberita"
+  },
+  {
+    "id": "pojokmadura",
+    "text": "pojokmadura"
+  },
+  {
+    "id": "aswajatv",
+    "text": "aswajatv"
+  },
+  {
+    "id": "muslimterkini",
+    "text": "muslimterkini"
+  },
+  {
+    "id": "inilahjogja",
+    "text": "inilahjogja"
+  },
+  {
+    "id": "urbanjabar",
+    "text": "urbanjabar"
+  },
+  {
+    "id": "dobrak",
+    "text": "dobrak"
+  },
+  {
+    "id": "ayocirebon",
+    "text": "ayocirebon"
+  },
+  {
+    "id": "fokussatu",
+    "text": "fokussatu"
+  },
+  {
+    "id": "realitarepublik",
+    "text": "realitarepublik"
+  },
+  {
+    "id": "edisi",
+    "text": "edisi"
+  },
+  {
+    "id": "jurnalisnews",
+    "text": "jurnalisnews"
+  },
+  {
+    "id": "indonesianews",
+    "text": "indonesianews"
+  },
+  {
+    "id": "gorajuara",
+    "text": "gorajuara"
+  },
+  {
+    "id": "hariansederhana",
+    "text": "hariansederhana"
+  },
+  {
+    "id": "formasnews",
+    "text": "formasnews"
+  },
+  {
+    "id": "mediakepri",
+    "text": "mediakepri"
+  },
+  {
+    "id": "strategi",
+    "text": "strategi"
+  },
+  {
+    "id": "mitranews",
+    "text": "mitranews"
+  },
+  {
+    "id": "haluanpadang",
+    "text": "haluanpadang"
+  },
+  {
+    "id": "haluankaltim",
+    "text": "haluankaltim"
+  },
+  {
+    "id": "telusurnews",
+    "text": "telusurnews"
+  },
+  {
+    "id": "aspirasiku",
+    "text": "aspirasiku"
+  },
+  {
+    "id": "bogortimes",
+    "text": "bogortimes"
+  },
+  {
+    "id": "hallobogor",
+    "text": "hallobogor"
+  },
+  {
+    "id": "tipologi",
+    "text": "tipologi"
+  },
+  {
+    "id": "kabarfajar",
+    "text": "kabarfajar"
+  },
+  {
+    "id": "geliatekonomi",
+    "text": "geliatekonomi"
+  },
+  {
+    "id": "klikanggaran",
+    "text": "klikanggaran"
+  },
+  {
+    "id": "setiafakta",
+    "text": "setiafakta"
+  },
+  {
+    "id": "agromedicine",
+    "text": "agromedicine"
+  },
+  {
+    "id": "inilahkoran",
+    "text": "inilahkoran"
+  },
+  {
+    "id": "inilahnews",
+    "text": "inilahnews"
+  },
+  {
+    "id": "zonabandung",
+    "text": "zonabandung"
+  },
+  {
+    "id": "inforedaksi",
+    "text": "inforedaksi"
+  },
+  {
+    "id": "pojokmalioboro",
+    "text": "pojokmalioboro"
+  },
+  {
+    "id": "satuarah",
+    "text": "satuarah"
+  },
+  {
+    "id": "hallodesa",
+    "text": "hallodesa"
+  },
+  {
+    "id": "enampagi",
+    "text": "enampagi"
+  },
+  {
+    "id": "liputanbekasi",
+    "text": "liputanbekasi"
+  },
+  {
+    "id": "bantenraya",
+    "text": "bantenraya"
+  },
+  {
+    "id": "hallosulsel",
+    "text": "hallosulsel"
+  },
+  {
+    "id": "tourismnews",
+    "text": "tourismnews"
+  },
+  {
+    "id": "nolmeter",
+    "text": "nolmeter"
+  },
+  {
+    "id": "hallosport",
+    "text": "hallosport"
+  },
+  {
+    "id": "mediusnews",
+    "text": "mediusnews"
+  },
+  {
+    "id": "fajarbanten",
+    "text": "fajarbanten"
+  },
+  {
+    "id": "suaramerdekajakarta",
+    "text": "suaramerdekajakarta"
+  },
+  {
+    "id": "hallosultra",
+    "text": "hallosultra"
+  },
+  {
+    "id": "hallosidoarjo",
+    "text": "hallosidoarjo"
+  },
+  {
+    "id": "sportylife",
+    "text": "sportylife"
+  },
+  {
+    "id": "diatasroda",
+    "text": "diatasroda"
+  },
+  {
+    "id": "kabarku",
+    "text": "kabarku"
+  },
+  {
+    "id": "referensiberita",
+    "text": "referensiberita"
+  },
+  {
+    "id": "santaiaja",
+    "text": "santaiaja"
+  },
+  {
+    "id": "aboutmalang",
+    "text": "aboutmalang"
+  },
+  {
+    "id": "rakyatpriangan",
+    "text": "rakyatpriangan"
+  },
+  {
+    "id": "katalogika",
+    "text": "katalogika"
+  },
+  {
+    "id": "bicaralah",
+    "text": "bicaralah"
+  },
+  {
+    "id": "teropongdunia",
+    "text": "teropongdunia"
+  },
+  {
+    "id": "khatulistiwaupdate",
+    "text": "khatulistiwaupdate"
+  },
+  {
+    "id": "bawakalem",
+    "text": "bawakalem"
+  },
+  {
+    "id": "gunemid",
+    "text": "gunemid"
+  },
+  {
+    "id": "teropongpolitik",
+    "text": "teropongpolitik"
+  },
+  {
+    "id": "naratimes",
+    "text": "naratimes"
+  },
+  {
+    "id": "enbeindonesia",
+    "text": "enbeindonesia"
+  },
+  {
+    "id": "sewaktu",
+    "text": "sewaktu"
+  },
+  {
+    "id": "antimetri",
+    "text": "antimetri"
+  },
+  {
+    "id": "lombokinsider",
+    "text": "lombokinsider"
+  },
+  {
+    "id": "spacemedia",
+    "text": "spacemedia"
+  },
+  {
+    "id": "gunyam",
+    "text": "gunyam"
+  },
+  {
+    "id": "sepakbolasemarang",
+    "text": "sepakbolasemarang"
+  },
+  {
+    "id": "formasnewsco",
+    "text": "formasnewsco"
+  },
+  {
+    "id": "rimbanews",
+    "text": "rimbanews"
+  },
+  {
+    "id": "katolikku",
+    "text": "katolikku"
+  },
+  {
+    "id": "jakartadaily",
+    "text": "jakartadaily"
+  },
+  {
+    "id": "pandeglangnews",
+    "text": "pandeglangnews"
+  },
+  {
+    "id": "siarmedia",
+    "text": "siarmedia"
+  },
+  {
+    "id": "jejaksulsel",
+    "text": "jejaksulsel"
+  },
+  {
+    "id": "berandakita",
+    "text": "berandakita"
+  },
+  {
+    "id": "poros",
+    "text": "poros"
+  },
+  {
+    "id": "basis13",
+    "text": "basis13"
+  },
+  {
+    "id": "pojokdurasi",
+    "text": "pojokdurasi"
+  },
+  {
+    "id": "ayosolo",
+    "text": "ayosolo"
+  },
+  {
+    "id": "inspiratiomedia",
+    "text": "inspiratiomedia"
+  },
+  {
+    "id": "kanaljateng",
+    "text": "kanaljateng"
+  },
+  {
+    "id": "jabarnews",
+    "text": "jabarnews"
+  },
+  {
+    "id": "views",
+    "text": "views"
+  },
+  {
+    "id": "abchannel",
+    "text": "abchannel"
+  },
+  {
+    "id": "sibermanado",
+    "text": "sibermanado"
+  },
+  {
+    "id": "kreasiparenting",
+    "text": "kreasiparenting"
+  },
+  {
+    "id": "umatpost",
+    "text": "umatpost"
+  },
+  {
+    "id": "hallolifestyle",
+    "text": "hallolifestyle"
+  },
+  {
+    "id": "lumajangnetwork",
+    "text": "lumajangnetwork"
+  },
+  {
+    "id": "suaramerdekapekalongan",
+    "text": "suaramerdekapekalongan"
+  },
+  {
+    "id": "bondowosonetwork",
+    "text": "bondowosonetwork"
+  },
+  {
+    "id": "diorama",
+    "text": "diorama"
+  },
+  {
+    "id": "sijogja",
+    "text": "sijogja"
+  },
+  {
+    "id": "tinewss",
+    "text": "tinewss"
+  },
+  {
+    "id": "halloternate",
+    "text": "halloternate"
+  },
+  {
+    "id": "beritakarya",
+    "text": "beritakarya"
+  },
+  {
+    "id": "mudabahagia",
+    "text": "mudabahagia"
+  },
+  {
+    "id": "kabarinspirasi",
+    "text": "kabarinspirasi"
+  },
+  {
+    "id": "penjedar",
+    "text": "penjedar"
+  },
+  {
+    "id": "alonesia",
+    "text": "alonesia"
+  },
+  {
+    "id": "koranmemo",
+    "text": "koranmemo"
+  },
+  {
+    "id": "lintaspewarta",
+    "text": "lintaspewarta"
+  },
+  {
+    "id": "ingoningon",
+    "text": "ingoningon"
+  },
+  {
+    "id": "tangerangraya",
+    "text": "tangerangraya"
+  },
+  {
+    "id": "bandungnewsphoto",
+    "text": "bandungnewsphoto"
+  },
+  {
+    "id": "haluanlampung",
+    "text": "haluanlampung"
+  },
+  {
+    "id": "nyarink",
+    "text": "nyarink"
+  },
+  {
+    "id": "beritanusra",
+    "text": "beritanusra"
+  },
+  {
+    "id": "britakan",
+    "text": "britakan"
+  },
+  {
+    "id": "rakyatbali",
+    "text": "rakyatbali"
+  },
+  {
+    "id": "bebasbaru",
+    "text": "bebasbaru"
+  },
+  {
+    "id": "halopelajar",
+    "text": "halopelajar"
+  },
+  {
+    "id": "pojoksemarang",
+    "text": "pojoksemarang"
+  },
+  {
+    "id": "akarsari",
+    "text": "akarsari"
+  },
+  {
+    "id": "penabicara",
+    "text": "penabicara"
+  },
+  {
+    "id": "zonaekspos",
+    "text": "zonaekspos"
+  },
+  {
+    "id": "portalyogya",
+    "text": "portalyogya"
+  },
+  {
+    "id": "silanews",
+    "text": "silanews"
+  },
+  {
+    "id": "volkpop",
+    "text": "volkpop"
+  },
+  {
+    "id": "mahidara",
+    "text": "mahidara"
+  },
+  {
+    "id": "infoterkini24",
+    "text": "infoterkini24"
+  },
+  {
+    "id": "vespapedia",
+    "text": "vespapedia"
+  },
+  {
+    "id": "haluanjabar",
+    "text": "haluanjabar"
+  },
+  {
+    "id": "haluanjakarta",
+    "text": "haluanjakarta"
+  },
+  {
+    "id": "haluanjateng",
+    "text": "haluanjateng"
+  },
+  {
+    "id": "haluansulsel",
+    "text": "haluansulsel"
+  },
+  {
+    "id": "haluanmedan",
+    "text": "haluanmedan"
+  },
+  {
+    "id": "haluanaceh",
+    "text": "haluanaceh"
+  },
+  {
+    "id": "haluansulteng",
+    "text": "haluansulteng"
+  },
+  {
+    "id": "haluansumsel",
+    "text": "haluansumsel"
+  },
+  {
+    "id": "haluanjatim",
+    "text": "haluanjatim"
+  },
+  {
+    "id": "haluanjambi",
+    "text": "haluanjambi"
+  },
+  {
+    "id": "medianekita",
+    "text": "medianekita"
+  },
+  {
+    "id": "haluanbanten",
+    "text": "haluanbanten"
+  },
+  {
+    "id": "blitnews",
+    "text": "blitnews"
+  },
+  {
+    "id": "idpost",
+    "text": "idpost"
+  },
+  {
+    "id": "lenteratimes",
+    "text": "lenteratimes"
+  },
+  {
+    "id": "betawipos",
+    "text": "betawipos"
+  },
+  {
+    "id": "hallojakarta",
+    "text": "hallojakarta"
+  },
+  {
+    "id": "hallopurwasuka",
+    "text": "hallopurwasuka"
+  },
+  {
+    "id": "wartechno",
+    "text": "wartechno"
+  },
+  {
+    "id": "otosportif",
+    "text": "otosportif"
+  },
+  {
+    "id": "bantenekspose",
+    "text": "bantenekspose"
+  },
+  {
+    "id": "beritakarya",
+    "text": "beritakarya"
+  },
+  {
+    "id": "hariankami",
+    "text": "hariankami"
+  },
+  {
+    "id": "newzeka",
+    "text": "newzeka"
+  },
+  {
+    "id": "haluanbengkulu",
+    "text": "haluanbengkulu"
+  },
+  {
+    "id": "larosmedia",
+    "text": "larosmedia"
+  },
+  {
+    "id": "bandarlampungpost",
+    "text": "bandarlampungpost"
+  },
+  {
+    "id": "portalbanyuwangi",
+    "text": "portalbanyuwangi"
+  },
+  {
+    "id": "harianjember",
+    "text": "harianjember"
+  },
+  {
+    "id": "protokol24",
+    "text": "protokol24"
+  },
+  {
+    "id": "adatah",
+    "text": "adatah"
+  },
+  {
+    "id": "godepok",
+    "text": "godepok"
+  },
+  {
+    "id": "sinarkabar",
+    "text": "sinarkabar"
+  },
+  {
+    "id": "kesatu",
+    "text": "kesatu"
+  },
+  {
+    "id": "ketapelnews",
+    "text": "ketapelnews"
+  },
+  {
+    "id": "maungbandung",
+    "text": "maungbandung"
+  },
+  {
+    "id": "promilenial",
+    "text": "promilenial"
+  },
+  {
+    "id": "ciremainews",
+    "text": "ciremainews"
+  },
+  {
+    "id": "agamnewstoday",
+    "text": "agamnewstoday"
+  },
+  {
+    "id": "lensabanten",
+    "text": "lensabanten"
+  },
+  {
+    "id": "younity",
+    "text": "younity"
+  },
+  {
+    "id": "urbandepok",
+    "text": "urbandepok"
+  },
+  {
+    "id": "haluanbogor",
+    "text": "haluanbogor"
+  },
+  {
+    "id": "haluankalsel",
+    "text": "haluankalsel"
+  },
+  {
+    "id": "haluankalbar",
+    "text": "haluankalbar"
+  },
+  {
+    "id": "blitsnews",
+    "text": "blitsnews"
+  },
+  {
+    "id": "suarakarya",
+    "text": "suarakarya"
+  },
+  {
+    "id": "libernesia",
+    "text": "libernesia"
+  },
+  {
+    "id": "kilaulampung",
+    "text": "kilaulampung"
+  },
+  {
+    "id": "malutnetwork",
+    "text": "malutnetwork"
+  },
+  {
+    "id": "gardunesia",
+    "text": "gardunesia"
+  },
+  {
+    "id": "rienews",
+    "text": "rienews"
+  },
+  {
+    "id": "faktaidn",
+    "text": "faktaidn"
+  },
+  {
+    "id": "suarapantura",
+    "text": "suarapantura"
+  },
+  {
+    "id": "urbanbogor",
+    "text": "urbanbogor"
+  },
+  {
+    "id": "jabaribernews",
+    "text": "jabaribernews"
+  },
+  {
+    "id": "labuhanbaturaya",
+    "text": "labuhanbaturaya"
+  },
+  {
+    "id": "ceritanews",
+    "text": "ceritanews"
+  },
+  {
+    "id": "tintaputih",
+    "text": "tintaputih"
+  },
+  {
+    "id": "indonewstoday",
+    "text": "indonewstoday"
+  },
+  {
+    "id": "harianterbit",
+    "text": "harianterbit"
+  },
+  {
+    "id": "digitalbank",
+    "text": "digitalbank"
+  },
+  {
+    "id": "independenmedia",
+    "text": "independenmedia"
+  },
+  {
+    "id": "mikrofonid",
+    "text": "mikrofonid"
+  },
+  {
+    "id": "nuansasinar",
+    "text": "nuansasinar"
+  },
+  {
+    "id": "dagangberita",
+    "text": "dagangberita"
+  },
+  {
+    "id": "jabarjuara",
+    "text": "jabarjuara"
+  },
+  {
+    "id": "jabarjuarabandung",
+    "text": "jabarjuarabandung"
+  },
+  {
+    "id": "jabarjuaracirebon",
+    "text": "jabarjuaracirebon"
+  },
+  {
+    "id": "jabarjuaratasikmalaya",
+    "text": "jabarjuaratasikmalaya"
+  },
+  {
+    "id": "jatengnetwork",
+    "text": "jatengnetwork"
+  },
+  {
+    "id": "lensapurwakarta",
+    "text": "lensapurwakarta"
+  },
+  {
+    "id": "sinergijatim",
+    "text": "sinergijatim"
+  },
+  {
+    "id": "sinergipapers",
+    "text": "sinergipapers"
+  },
+  {
+    "id": "unews",
+    "text": "unews"
+  },
+  {
+    "id": "frekuensinews",
+    "text": "frekuensinews"
+  },
+  {
+    "id": "sinergimadura",
+    "text": "sinergimadura"
+  },
+  {
+    "id": "sinarjabar",
+    "text": "sinarjabar"
+  },
+  {
+    "id": "naveridn",
+    "text": "naveridn"
+  },
+  {
+    "id": "bincangkorea",
+    "text": "bincangkorea"
+  },
+  {
+    "id": "hopsid",
+    "text": "hopsid"
+  },
+  {
+    "id": "bicaranetwork",
+    "text": "bicaranetwork"
+  },
+  {
+    "id": "bershalawat",
+    "text": "bershalawat"
+  },
+  {
+    "id": "ekbistangsel",
+    "text": "ekbistangsel"
+  },
+  {
+    "id": "klikmedianet",
+    "text": "klikmedianet"
+  },
+  {
+    "id": "gamenosida",
+    "text": "gamenosida"
+  },
+  {
+    "id": "coverbothside",
+    "text": "coverbothside"
+  },
+  {
+    "id": "ketiknews",
+    "text": "ketiknews"
+  },
+  {
+    "id": "koreabangethops",
+    "text": "koreabangethops"
+  },
+  {
+    "id": "kulinearhops",
+    "text": "kulinearhops"
+  },
+  {
+    "id": "muslimahops",
+    "text": "muslimahops"
+  },
+  {
+    "id": "urbanbandung",
+    "text": "urbanbandung"
+  },
+  {
+    "id": "kebaca",
+    "text": "kebaca"
+  },
+  {
+    "id": "bisnikahops",
+    "text": "bisnikahops"
+  },
+  {
+    "id": "depoktodayhops",
+    "text": "depoktodayhops"
+  },
+  {
+    "id": "ruangterang",
+    "text": "ruangterang"
+  },
+  {
+    "id": "fokusmuria",
+    "text": "fokusmuria"
+  },
+  {
+    "id": "urbanbekasi",
+    "text": "urbanbekasi"
+  },
+  {
+    "id": "liriklaguhits",
+    "text": "liriklaguhits"
+  },
+  {
+    "id": "bpkpnews",
+    "text": "bpkpnews"
+  },
+  {
+    "id": "masagipedia",
+    "text": "masagipedia"
+  },
+  {
+    "id": "independensia",
+    "text": "independensia"
+  },
+  {
+    "id": "panturatalk",
+    "text": "panturatalk"
+  },
+  {
+    "id": "tinemu",
+    "text": "tinemu"
+  },
+  {
+    "id": "dkylb",
+    "text": "dkylb"
+  },
+  {
+    "id": "beritajowo",
+    "text": "beritajowo"
+  },
+  {
+    "id": "kilasberita",
+    "text": "kilasberita"
+  },
+  {
+    "id": "ceoaceh",
+    "text": "ceoaceh"
+  },
+  {
+    "id": "indotren",
+    "text": "indotren"
+  },
+  {
+    "id": "idtimes",
+    "text": "idtimes"
+  },
+  {
+    "id": "maduramu",
+    "text": "maduramu"
+  },
+  {
+    "id": "slemannews",
+    "text": "slemannews"
+  },
+  {
+    "id": "mabarnews",
+    "text": "mabarnews"
+  },
+  {
+    "id": "fismedia",
+    "text": "fismedia"
+  },
+  {
+    "id": "sumsel24",
+    "text": "sumsel24"
+  },
+  {
+    "id": "roompi",
+    "text": "roompi"
+  },
+  {
+    "id": "portalamanah",
+    "text": "portalamanah"
+  },
+  {
+    "id": "victorynews",
+    "text": "victorynews"
+  },
+  {
+    "id": "banyuwanginetwork",
+    "text": "banyuwanginetwork"
+  },
+  {
+    "id": "suaramuda",
+    "text": "suaramuda"
+  },
+  {
+    "id": "risinggeeks",
+    "text": "risinggeeks"
+  },
+  {
+    "id": "pedomanrakyatnews",
+    "text": "pedomanrakyatnews"
+  },
+  {
+    "id": "newspro",
+    "text": "newspro"
+  },
+  {
+    "id": "topmedia",
+    "text": "topmedia"
+  },
+  {
+    "id": "bekasikinian",
+    "text": "bekasikinian"
+  },
+  {
+    "id": "vnmabar",
+    "text": "vnmabar"
+  },
+  {
+    "id": "vnsikka",
+    "text": "vnsikka"
+  },
+  {
+    "id": "vnsport",
+    "text": "vnsport"
+  },
+  {
+    "id": "vnrotendao",
+    "text": "vnrotendao"
+  },
+  {
+    "id": "vnsumbatimur",
+    "text": "vnsumbatimur"
+  },
+  {
+    "id": "vnttu",
+    "text": "vnttu"
+  },
+  {
+    "id": "banjarese",
+    "text": "banjarese"
+  },
+  {
+    "id": "bingkainasional",
+    "text": "bingkainasional"
+  },
+  {
+    "id": "nusawara",
+    "text": "nusawara"
+  },
+  {
+    "id": "dkliknews",
+    "text": "dkliknews"
+  },
+  {
+    "id": "bribinnews",
+    "text": "bribinnews"
+  },
+  {
+    "id": "balikpapancity",
+    "text": "balikpapancity"
+  },
+  {
+    "id": "kaltenglima",
+    "text": "kaltenglima"
+  },
+  {
+    "id": "swargantara",
+    "text": "swargantara"
+  },
+  {
+    "id": "metronesia",
+    "text": "metronesia"
+  },
+  {
+    "id": "projabar",
+    "text": "projabar"
+  },
+  {
+    "id": "sportanews",
+    "text": "sportanews"
+  },
+  {
+    "id": "jatengpost",
+    "text": "jatengpost"
+  },
+  {
+    "id": "yukjelajah",
+    "text": "yukjelajah"
+  },
+  {
+    "id": "klikpendidikan",
+    "text": "klikpendidikan"
+  },
+  {
+    "id": "ngaderes",
+    "text": "ngaderes"
+  },
+  {
+    "id": "hajiumrahnews",
+    "text": "hajiumrahnews"
+  },
+  {
+    "id": "liputankendalterkini",
+    "text": "liputankendalterkini"
+  },
+  {
+    "id": "infosumsel",
+    "text": "infosumsel"
+  },
+  {
+    "id": "gerbangnetwork",
+    "text": "gerbangnetwork"
+  },
+  {
+    "id": "babadid",
+    "text": "babadid"
+  },
+  {
+    "id": "storiloka",
+    "text": "storiloka"
+  },
+  {
+    "id": "indonesiatrends",
+    "text": "indonesiatrends"
+  },
+  {
+    "id": "innalar",
+    "text": "innalar"
+  },
+  {
+    "id": "auroranews",
+    "text": "auroranews"
+  },
+  {
+    "id": "bangbara",
+    "text": "bangbara"
+  },
+  {
+    "id": "detik60",
+    "text": "detik60"
+  },
+  {
+    "id": "nusantara62",
+    "text": "nusantara62"
+  },
+  {
+    "id": "kiatindonesia",
+    "text": "kiatindonesia"
+  },
+  {
+    "id": "papanskor",
+    "text": "papanskor"
+  },
+  {
+    "id": "petromaxnews",
+    "text": "petromaxnews"
+  },
+  {
+    "id": "sudahbaca",
+    "text": "sudahbaca"
+  },
+  {
+    "id": "koransaku",
+    "text": "koransaku"
+  },
+  {
+    "id": "girinesia",
+    "text": "girinesia"
+  },
+  {
+    "id": "beritabaik",
+    "text": "beritabaik"
+  },
+  {
+    "id": "malangnetwork",
+    "text": "malangnetwork"
+  },
+  {
+    "id": "ruanganinfo",
+    "text": "ruanganinfo"
+  },
+  {
+    "id": "inspiranesia",
+    "text": "inspiranesia"
+  },
+  {
+    "id": "distriknews",
+    "text": "distriknews"
+  },
+  {
+    "id": "otostar",
+    "text": "otostar"
+  },
+  {
+    "id": "sulselnetwork",
+    "text": "sulselnetwork"
+  },
+  {
+    "id": "sinarharapan",
+    "text": "sinarharapan"
+  },
+  {
+    "id": "beritabulukumba",
+    "text": "beritabulukumba"
+  },
+  {
+    "id": "sultranetwork",
+    "text": "sultranetwork"
+  },
+  {
+    "id": "ciayumajakuning",
+    "text": "ciayumajakuning"
+  },
+  {
+    "id": "wartanasional",
+    "text": "wartanasional"
+  },
+  {
+    "id": "habaritah",
+    "text": "habaritah"
+  },
+  {
+    "id": "jatimzone",
+    "text": "jatimzone"
+  },
+  {
+    "id": "tamiangsatu",
+    "text": "tamiangsatu"
+  },
+  {
+    "id": "acehtimursatu",
+    "text": "acehtimursatu"
+  },
+  {
+    "id": "seputarnusa",
+    "text": "seputarnusa"
+  },
+  {
+    "id": "insiden24",
+    "text": "insiden24"
+  },
+  {
+    "id": "floreseditorial",
+    "text": "floreseditorial"
+  },
+  {
+    "id": "bisnisbandung",
+    "text": "bisnisbandung"
+  },
+  {
+    "id": "vnsultra",
+    "text": "vnsultra"
+  },
+  {
+    "id": "kabarpesisir",
+    "text": "kabarpesisir"
+  },
+  {
+    "id": "inidata",
+    "text": "inidata"
+  },
+  {
+    "id": "spiritmadura",
+    "text": "spiritmadura"
+  },
+  {
+    "id": "rajawalinews",
+    "text": "rajawalinews"
+  },
+  {
+    "id": "lintaside",
+    "text": "lintaside"
+  },
+  {
+    "id": "pronusantara",
+    "text": "pronusantara"
+  },
+  {
+    "id": "islamadania",
+    "text": "islamadania"
+  },
+  {
+    "id": "konstruksicoid",
+    "text": "konstruksicoid"
+  },
+  {
+    "id": "genzdaily",
+    "text": "genzdaily"
+  },
+  {
+    "id": "zetizens",
+    "text": "zetizens"
+  },
+  {
+    "id": "terpantau",
+    "text": "terpantau"
+  },
+  {
+    "id": "etnologimedia",
+    "text": "etnologimedia"
+  },
+  {
+    "id": "cirebonekspres",
+    "text": "cirebonekspres"
+  },
+  {
+    "id": "telegrafnesia",
+    "text": "telegrafnesia"
+  },
+  {
+    "id": "jurnalwarga",
+    "text": "jurnalwarga"
+  },
+  {
+    "id": "acehnomics",
+    "text": "acehnomics"
+  },
+  {
+    "id": "insulteng",
+    "text": "insulteng"
+  },
+  {
+    "id": "kabarprioritas",
+    "text": "kabarprioritas"
+  },
+  {
+    "id": "khazanahimani",
+    "text": "khazanahimani"
+  },
+  {
+    "id": "sultraraya",
+    "text": "sultraraya"
+  },
+  {
+    "id": "okocenews",
+    "text": "okocenews"
+  },
+  {
+    "id": "timesumsel",
+    "text": "timesumsel"
+  },
+  {
+    "id": "sidikjari",
+    "text": "sidikjari"
+  },
+  {
+    "id": "justisianews",
+    "text": "justisianews"
+  },
+  {
+    "id": "nttexpress",
+    "text": "nttexpress"
+  },
+  {
+    "id": "purwakartaonline",
+    "text": "purwakartaonline"
+  },
+  {
+    "id": "muslimkita",
+    "text": "muslimkita"
+  },
+  {
+    "id": "penatimes",
+    "text": "penatimes"
+  },
+  {
+    "id": "20jam",
+    "text": "20jam"
+  },
+  {
+    "id": "riausatu",
+    "text": "riausatu"
+  },
+  {
+    "id": "jurnalnews",
+    "text": "jurnalnews"
+  },
+  {
+    "id": "nongkrong",
+    "text": "nongkrong"
+  },
+  {
+    "id": "naskah",
+    "text": "naskah"
+  },
+  {
+    "id": "www.kabarntt.com",
+    "text": "www.kabarntt.com"
+  },
+  {
+    "id": "walinusantara",
+    "text": "walinusantara"
+  },
+  {
+    "id": "sebekasi",
+    "text": "sebekasi"
+  },
+  {
+    "id": "jogjaintens",
+    "text": "jogjaintens"
+  },
+  {
+    "id": "cirebonraya",
+    "text": "cirebonraya"
+  },
+  {
+    "id": "jabotabekupdate",
+    "text": "jabotabekupdate"
+  },
+  {
+    "id": "bertaji",
+    "text": "bertaji"
+  },
+  {
+    "id": "vartadiy",
+    "text": "vartadiy"
+  },
+  {
+    "id": "posflores",
+    "text": "posflores"
+  },
+  {
+    "id": "lajupantura",
+    "text": "lajupantura"
+  },
+  {
+    "id": "hitimur",
+    "text": "hitimur"
+  },
+  {
+    "id": "ivoknews",
+    "text": "ivoknews"
+  },
+  {
+    "id": "ragamindonesia",
+    "text": "ragamindonesia"
+  },
+  {
+    "id": "obatnews",
+    "text": "obatnews"
+  },
+  {
+    "id": "jurnaltinta",
+    "text": "jurnaltinta"
+  },
+  {
+    "id": "ceklisbiru",
+    "text": "ceklisbiru"
+  },
+  {
+    "id": "klikindonesia",
+    "text": "klikindonesia"
+  },
+  {
+    "id": "diseduh",
+    "text": "diseduh"
+  },
+  {
+    "id": "fokuskudus",
+    "text": "fokuskudus"
+  },
+  {
+    "id": "fokuspati",
+    "text": "fokuspati"
+  },
+  {
+    "id": "rubicnews",
+    "text": "rubicnews"
+  },
+  {
+    "id": "insidepontianak",
+    "text": "insidepontianak"
+  },
+  {
+    "id": "bibirpasifik",
+    "text": "bibirpasifik"
+  },
+  {
+    "id": "patiupdate",
+    "text": "patiupdate"
+  },
+  {
+    "id": "tentang",
+    "text": "tentang"
+  },
+  {
+    "id": "technodition",
+    "text": "technodition"
+  },
+  {
+    "id": "sinarin",
+    "text": "sinarin"
+  },
+  {
+    "id": "hukamanews",
+    "text": "hukamanews"
+  },
+  {
+    "id": "klikmanado",
+    "text": "klikmanado"
+  },
+  {
+    "id": "gragenews",
+    "text": "gragenews"
+  },
+  {
+    "id": "bahanarakyat",
+    "text": "bahanarakyat"
+  },
+  {
+    "id": "terasmalioboro",
+    "text": "terasmalioboro"
+  },
+  {
+    "id": "kobaran",
+    "text": "kobaran"
+  },
+  {
+    "id": "bantennetwork",
+    "text": "bantennetwork"
+  },
+  {
+    "id": "wonosobozone",
+    "text": "wonosobozone"
+  },
+  {
+    "id": "baaca",
+    "text": "baaca"
+  },
+  {
+    "id": "jampangpedia",
+    "text": "jampangpedia"
+  },
+  {
+    "id": "nuansaberita",
+    "text": "nuansaberita"
+  },
+  {
+    "id": "sigermedia",
+    "text": "sigermedia"
+  },
+  {
+    "id": "seputarindonesia",
+    "text": "seputarindonesia"
+  },
+  {
+    "id": "duniaanakindonesia",
+    "text": "duniaanakindonesia"
+  },
+  {
+    "id": "sandaran",
+    "text": "sandaran"
+  },
+  {
+    "id": "beritatren",
+    "text": "beritatren"
+  },
+  {
+    "id": "okenusra",
+    "text": "okenusra"
+  },
+  {
+    "id": "kilas",
+    "text": "kilas"
+  },
+  {
+    "id": "pensilbiru",
+    "text": "pensilbiru"
+  },
+  {
+    "id": "bonsernews",
+    "text": "bonsernews"
+  },
+  {
+    "id": "protechnesia",
+    "text": "protechnesia"
+  },
+  {
+    "id": "pentingpedia",
+    "text": "pentingpedia"
+  },
+  {
+    "id": "amoebanews",
+    "text": "amoebanews"
+  },
+  {
+    "id": "cibungkul",
+    "text": "cibungkul"
+  },
+  {
+    "id": "singaparnatoday",
+    "text": "singaparnatoday"
+  },
+  {
+    "id": "youtuber",
+    "text": "youtuber"
+  },
+  {
+    "id": "pustaka",
+    "text": "pustaka"
+  },
+  {
+    "id": "sinergijakarta",
+    "text": "sinergijakarta"
+  },
+  {
+    "id": "okeybro",
+    "text": "okeybro"
+  },
+  {
+    "id": "terbaik",
+    "text": "terbaik"
+  },
+  {
+    "id": "mysulut",
+    "text": "mysulut"
+  },
+  {
+    "id": "travelling",
+    "text": "travelling"
+  },
+  {
+    "id": "infospesifikasi",
+    "text": "infospesifikasi"
+  },
+  {
+    "id": "rekomendasi",
+    "text": "rekomendasi"
+  },
+  {
+    "id": "idjatim",
+    "text": "idjatim"
+  },
+  {
+    "id": "bestseller",
+    "text": "bestseller"
+  },
+  {
+    "id": "mudabelia",
+    "text": "mudabelia"
+  },
+  {
+    "id": "teknoapp",
+    "text": "teknoapp"
+  },
+  {
+    "id": "jabarhits",
+    "text": "jabarhits"
+  },
+  {
+    "id": "floresnews",
+    "text": "floresnews"
+  },
+  {
+    "id": "gangberita",
+    "text": "gangberita"
+  },
+  {
+    "id": "kalimantansatu",
+    "text": "kalimantansatu"
+  },
+  {
+    "id": "ragamyogyakarta",
+    "text": "ragamyogyakarta"
+  },
+  {
+    "id": "watyutink",
+    "text": "watyutink"
+  },
+  {
+    "id": "diotv",
+    "text": "diotv"
+  },
+  {
+    "id": "fajarnusa",
+    "text": "fajarnusa"
+  },
+  {
+    "id": "24jam",
+    "text": "24jam"
+  },
+  {
+    "id": "okeindonesia",
+    "text": "okeindonesia"
+  },
+  {
+    "id": "okejabar",
+    "text": "okejabar"
+  },
+  {
+    "id": "okejatim",
+    "text": "okejatim"
+  },
+  {
+    "id": "okejateng",
+    "text": "okejateng"
+  },
+  {
+    "id": "beritaria",
+    "text": "beritaria"
+  },
+  {
+    "id": "beritautama",
+    "text": "beritautama"
+  },
+  {
+    "id": "suarasukabumi",
+    "text": "suarasukabumi"
+  },
+  {
+    "id": "jendelaindonesia",
+    "text": "jendelaindonesia"
+  },
+  {
+    "id": "ntbpos",
+    "text": "ntbpos"
+  },
+  {
+    "id": "inibengkulu",
+    "text": "inibengkulu"
+  },
+  {
+    "id": "ideindonesiaku",
+    "text": "ideindonesiaku"
+  },
+  {
+    "id": "esportsku",
+    "text": "esportsku"
+  },
+  {
+    "id": "metrosulteng",
+    "text": "metrosulteng"
+  },
+  {
+    "id": "punyarakyat",
+    "text": "punyarakyat"
+  },
+  {
+    "id": "jakartanetizen",
+    "text": "jakartanetizen"
+  },
+  {
+    "id": "tajuk24",
+    "text": "tajuk24"
+  },
+  {
+    "id": "multaqomedia",
+    "text": "multaqomedia"
+  },
+  {
+    "id": "pelitapengetahuan",
+    "text": "pelitapengetahuan"
+  },
+  {
+    "id": "ragamjakarta",
+    "text": "ragamjakarta"
+  },
+  {
+    "id": "haijabar",
+    "text": "haijabar"
+  },
+  {
+    "id": "ragambandung",
+    "text": "ragambandung"
+  },
+  {
+    "id": "ragamsurabaya",
+    "text": "ragamsurabaya"
+  },
+  {
+    "id": "ayokediri",
+    "text": "ayokediri"
+  },
+  {
+    "id": "sulbarekspres",
+    "text": "sulbarekspres"
+  },
+  {
+    "id": "ayovibes",
+    "text": "ayovibes"
+  },
+  {
+    "id": "ayotekno",
+    "text": "ayotekno"
+  },
+  {
+    "id": "lampungekspose",
+    "text": "lampungekspose"
+  },
+  {
+    "id": "wartafavorit",
+    "text": "wartafavorit"
+  },
+  {
+    "id": "suaraburuh",
+    "text": "suaraburuh"
+  },
+  {
+    "id": "jakartatrend",
+    "text": "jakartatrend"
+  },
+  {
+    "id": "portalbaraya",
+    "text": "portalbaraya"
+  },
+  {
+    "id": "saluranmedia",
+    "text": "saluranmedia"
+  },
+  {
+    "id": "nasionalid",
+    "text": "nasionalid"
+  },
+  {
+    "id": "edaranid",
+    "text": "edaranid"
+  },
+  {
+    "id": "orandmaybe",
+    "text": "orandmaybe"
+  },
+  {
+    "id": "kliklabuanbajo",
+    "text": "kliklabuanbajo"
+  },
+  {
+    "id": "trendberita",
+    "text": "trendberita"
+  },
+  {
+    "id": "orbitindonesia",
+    "text": "orbitindonesia"
+  },
+  {
+    "id": "warnaindonesia",
+    "text": "warnaindonesia"
+  },
+  {
+    "id": "perbarui",
+    "text": "perbarui"
+  },
+  {
+    "id": "pasalid",
+    "text": "pasalid"
+  },
+  {
+    "id": "suluhdesa",
+    "text": "suluhdesa"
+  },
+  {
+    "id": "sinaranupdate",
+    "text": "sinaranupdate"
+  },
+  {
+    "id": "harmasnews",
+    "text": "harmasnews"
+  },
+  {
+    "id": "fokusjepara",
+    "text": "fokusjepara"
+  },
+  {
+    "id": "nules",
+    "text": "nules"
+  },
+  {
+    "id": "bolanusantara",
+    "text": "bolanusantara"
+  },
+  {
+    "id": "aktaduma",
+    "text": "aktaduma"
+  },
+  {
+    "id": "jangkauindonesia",
+    "text": "jangkauindonesia"
+  },
+  {
+    "id": "dailypangandaran",
+    "text": "dailypangandaran"
+  },
+  {
+    "id": "nunmediaid",
+    "text": "nunmediaid"
+  },
+  {
+    "id": "djakartanexus",
+    "text": "djakartanexus"
+  },
+  {
+    "id": "storyjatim",
+    "text": "storyjatim"
+  },
+  {
+    "id": "elbaitsukabumi",
+    "text": "elbaitsukabumi"
+  },
+  {
+    "id": "haluankita",
+    "text": "haluankita"
+  },
+  {
+    "id": "idenusantara",
+    "text": "idenusantara"
+  },
+  {
+    "id": "bogorinsider",
+    "text": "bogorinsider"
+  },
+  {
+    "id": "ragamsemarang",
+    "text": "ragamsemarang"
+  },
+  {
+    "id": "ragambali",
+    "text": "ragambali"
+  },
+  {
+    "id": "reportasebanten",
+    "text": "reportasebanten"
+  },
+  {
+    "id": "ragamlombok",
+    "text": "ragamlombok"
+  },
+  {
+    "id": "ragammandalika",
+    "text": "ragammandalika"
+  },
+  {
+    "id": "forsains",
+    "text": "forsains"
+  },
+  {
+    "id": "sidakpost",
+    "text": "sidakpost"
+  },
+  {
+    "id": "orbidid",
+    "text": "orbidid"
+  },
+  {
+    "id": "kabarjambikito",
+    "text": "kabarjambikito"
+  },
+  {
+    "id": "portaltebo",
+    "text": "portaltebo"
+  },
+  {
+    "id": "lihatjambi",
+    "text": "lihatjambi"
+  },
+  {
+    "id": "dhahanews",
+    "text": "dhahanews"
+  },
+  {
+    "id": "halopedeka",
+    "text": "halopedeka"
+  },
+  {
+    "id": "ntthits",
+    "text": "ntthits"
+  },
+  {
+    "id": "indorakyat",
+    "text": "indorakyat"
+  },
+  {
+    "id": "tengganai",
+    "text": "tengganai"
+  },
+  {
+    "id": "bacabeid",
+    "text": "bacabeid"
+  },
+  {
+    "id": "bakolantang",
+    "text": "bakolantang"
+  },
+  {
+    "id": "swaramuda",
+    "text": "swaramuda"
+  },
+  {
+    "id": "beritawisata",
+    "text": "beritawisata"
+  },
+  {
+    "id": "inilahbandung",
+    "text": "inilahbandung"
+  },
+  {
+    "id": "beritatokoh",
+    "text": "beritatokoh"
+  },
+  {
+    "id": "trixy",
+    "text": "trixy"
+  },
+  {
+    "id": "korangala",
+    "text": "korangala"
+  },
+  {
+    "id": "publikantb",
+    "text": "publikantb"
+  },
+  {
+    "id": "jambisiber",
+    "text": "jambisiber"
+  },
+  {
+    "id": "wartapesona",
+    "text": "wartapesona"
+  },
+  {
+    "id": "kabarjambikito",
+    "text": "kabarjambikito"
+  },
+  {
+    "id": "mediapriangan",
+    "text": "mediapriangan"
+  },
+  {
+    "id": "kabaralam",
+    "text": "kabaralam"
+  },
+  {
+    "id": "tutwuriid",
+    "text": "tutwuriid"
+  },
+  {
+    "id": "inipalu",
+    "text": "inipalu"
+  },
+  {
+    "id": "kabarid",
+    "text": "kabarid"
+  },
+  {
+    "id": "medialabuanbajo",
+    "text": "medialabuanbajo"
+  },
+  {
+    "id": "www.wowbabel.com",
+    "text": "www.wowbabel.com"
+  },
+  {
+    "id": "galalisan",
+    "text": "galalisan"
+  },
+  {
+    "id": "suaraumatnews",
+    "text": "suaraumatnews"
+  },
+  {
+    "id": "portalsalatiga",
+    "text": "portalsalatiga"
+  },
+  {
+    "id": "selaparangnews",
+    "text": "selaparangnews"
+  },
+  {
+    "id": "sulutnetwork",
+    "text": "sulutnetwork"
+  },
+  {
+    "id": "ragamsulut",
+    "text": "ragamsulut"
+  },
+  {
+    "id": "ragamsulteng",
+    "text": "ragamsulteng"
+  },
+  {
+    "id": "palopoleaks",
+    "text": "palopoleaks"
+  },
+  {
+    "id": "portalmanggarai",
+    "text": "portalmanggarai"
+  },
+  {
+    "id": "singarajapost",
+    "text": "singarajapost"
+  },
+  {
+    "id": "sumbavoice",
+    "text": "sumbavoice"
+  },
+  {
+    "id": "lambekriminal",
+    "text": "lambekriminal"
+  },
+  {
+    "id": "teropongjateng",
+    "text": "teropongjateng"
+  },
+  {
+    "id": "spiritkepri",
+    "text": "spiritkepri"
+  },
+  {
+    "id": "lampungnesia",
+    "text": "lampungnesia"
+  },
+  {
+    "id": "purwakartahits",
+    "text": "purwakartahits"
+  },
+  {
+    "id": "koneksiindonesia",
+    "text": "koneksiindonesia"
+  },
+  {
+    "id": "nusahits",
+    "text": "nusahits"
+  },
+  {
+    "id": "shirogadget",
+    "text": "shirogadget"
+  },
+  {
+    "id": "sewelaz",
+    "text": "sewelaz"
+  },
+  {
+    "id": "draftekno",
+    "text": "draftekno"
+  },
+  {
+    "id": "kalimantanupdate",
+    "text": "kalimantanupdate"
+  },
+  {
+    "id": "fokusmedia",
+    "text": "fokusmedia"
+  },
+  {
+    "id": "murianetwork",
+    "text": "murianetwork"
+  },
+  {
+    "id": "mocosik",
+    "text": "mocosik"
+  },
+  {
+    "id": "nasionalita",
+    "text": "nasionalita"
+  },
+  {
+    "id": "fokusrembang",
+    "text": "fokusrembang"
+  },
+  {
+    "id": "fokussemarang",
+    "text": "fokussemarang"
+  },
+  {
+    "id": "floratanews",
+    "text": "floratanews"
+  },
+  {
+    "id": "catatanbandung",
+    "text": "catatanbandung"
+  },
+  {
+    "id": "notifindonesia",
+    "text": "notifindonesia"
+  },
+  {
+    "id": "jabartranding",
+    "text": "jabartranding"
+  },
+  {
+    "id": "balanesia",
+    "text": "balanesia"
+  },
+  {
+    "id": "bandunghits",
+    "text": "bandunghits"
+  },
+  {
+    "id": "sudutlampung",
+    "text": "sudutlampung"
+  },
+  {
+    "id": "financialreview",
+    "text": "financialreview"
+  },
+  {
+    "id": "riauliputan",
+    "text": "riauliputan"
+  },
+  {
+    "id": "projateng",
+    "text": "projateng"
+  },
+  {
+    "id": "soulsel",
+    "text": "soulsel"
+  },
+  {
+    "id": "jogjaraya",
+    "text": "jogjaraya"
+  },
+  {
+    "id": "celebesnetwork",
+    "text": "celebesnetwork"
+  },
+  {
+    "id": "alurinformasi",
+    "text": "alurinformasi"
+  },
+  {
+    "id": "ragambanggai",
+    "text": "ragambanggai"
+  },
+  {
+    "id": "batamekbis",
+    "text": "batamekbis"
+  },
+  {
+    "id": "suluhjateng",
+    "text": "suluhjateng"
+  },
+  {
+    "id": "jambioke",
+    "text": "jambioke"
+  },
+  {
+    "id": "viraljambi",
+    "text": "viraljambi"
+  },
+  {
+    "id": "dnewsstar",
+    "text": "dnewsstar"
+  },
+  {
+    "id": "jurnalgarut",
+    "text": "jurnalgarut"
+  },
+  {
+    "id": "poinfomedia",
+    "text": "poinfomedia"
+  },
+  {
+    "id": "banyumasterkini",
+    "text": "banyumasterkini"
+  },
+  {
+    "id": "showbizindo",
+    "text": "showbizindo"
+  },
+  {
+    "id": "kliklombok",
+    "text": "kliklombok"
+  },
+  {
+    "id": "sulawesinetwork",
+    "text": "sulawesinetwork"
+  },
+  {
+    "id": "intinesia",
+    "text": "intinesia"
+  },
+  {
+    "id": "kuncijawabanku",
+    "text": "kuncijawabanku"
+  },
+  {
+    "id": "lintaspapua",
+    "text": "lintaspapua"
+  },
+  {
+    "id": "projatim",
+    "text": "projatim"
+  },
+  {
+    "id": "hitsidn",
+    "text": "hitsidn"
+  },
+  {
+    "id": "purbalinggaterkini",
+    "text": "purbalinggaterkini"
+  },
+  {
+    "id": "jangkara",
+    "text": "jangkara"
+  },
+  {
+    "id": "portaljember",
+    "text": "portaljember"
+  },
+  {
+    "id": "mediajambinews",
+    "text": "mediajambinews"
+  },
+  {
+    "id": "aktualkan",
+    "text": "aktualkan"
+  },
+  {
+    "id": "portalseleb",
+    "text": "portalseleb"
+  },
+  {
+    "id": "mengerti",
+    "text": "mengerti"
+  },
+  {
+    "id": "quena",
+    "text": "quena"
+  },
+  {
+    "id": "kabarlumajang",
+    "text": "kabarlumajang"
+  },
+  {
+    "id": "jurnalelite",
+    "text": "jurnalelite"
+  },
+  {
+    "id": "fokususrabaya",
+    "text": "fokususrabaya"
+  },
+  {
+    "id": "fokussolo",
+    "text": "fokussolo"
+  },
+  {
+    "id": "ragampalu",
+    "text": "ragampalu"
+  },
+  {
+    "id": "kabarjambiupdate",
+    "text": "kabarjambiupdate"
+  },
+  {
+    "id": "dewatanetwork",
+    "text": "dewatanetwork"
+  },
+  {
+    "id": "zonajakartanetwork",
+    "text": "zonajakartanetwork"
+  },
+  {
+    "id": "sumenepnetwork",
+    "text": "sumenepnetwork"
+  },
+  {
+    "id": "osingpedia",
+    "text": "osingpedia"
+  },
+  {
+    "id": "hallyuvibe",
+    "text": "hallyuvibe"
+  },
+  {
+    "id": "pangandarantoday",
+    "text": "pangandarantoday"
+  },
+  {
+    "id": "bantenhay",
+    "text": "bantenhay"
+  },
+  {
+    "id": "teraspulau",
+    "text": "teraspulau"
+  },
+  {
+    "id": "suluhmerdeka",
+    "text": "suluhmerdeka"
+  },
+  {
+    "id": "banyuwangipedia",
+    "text": "banyuwangipedia"
+  },
+  {
+    "id": "ihwal",
+    "text": "ihwal"
+  },
+  {
+    "id": "adawarta",
+    "text": "adawarta"
+  },
+  {
+    "id": "begayepontianak",
+    "text": "begayepontianak"
+  },
+  {
+    "id": "pijarnusantara",
+    "text": "pijarnusantara"
+  },
+  {
+    "id": "garutinside",
+    "text": "garutinside"
+  },
+  {
+    "id": "yogyaupdate",
+    "text": "yogyaupdate"
+  },
+  {
+    "id": "sidikmedia",
+    "text": "sidikmedia"
+  },
+  {
+    "id": "proserang",
+    "text": "proserang"
+  },
+  {
+    "id": "kliksemarang",
+    "text": "kliksemarang"
+  },
+  {
+    "id": "urbanjakarta",
+    "text": "urbanjakarta"
+  },
+  {
+    "id": "urbanjogja",
+    "text": "urbanjogja"
+  },
+  {
+    "id": "jakartadailyindonesia",
+    "text": "jakartadailyindonesia"
+  },
+  {
+    "id": "bragapos",
+    "text": "bragapos"
+  },
+  {
+    "id": "ijenindonesia",
+    "text": "ijenindonesia"
+  },
+  {
+    "id": "naungid",
+    "text": "naungid"
+  },
+  {
+    "id": "pemberitaanid",
+    "text": "pemberitaanid"
+  },
+  {
+    "id": "thepapuajurnal",
+    "text": "thepapuajurnal"
+  },
+  {
+    "id": "cirebonnetwork",
+    "text": "cirebonnetwork"
+  },
+  {
+    "id": "jakbarnews",
+    "text": "jakbarnews"
+  },
+  {
+    "id": "siberita",
+    "text": "siberita"
+  },
+  {
+    "id": "sapalombok",
+    "text": "sapalombok"
+  },
+  {
+    "id": "jabarberdaya",
+    "text": "jabarberdaya"
+  },
+  {
+    "id": "kontennetwork",
+    "text": "kontennetwork"
+  },
+  {
+    "id": "jakpusnews",
+    "text": "jakpusnews"
+  },
+  {
+    "id": "jaktimnews",
+    "text": "jaktimnews"
+  },
+  {
+    "id": "fnn",
+    "text": "fnn"
+  },
+  {
+    "id": "pembritabetawi",
+    "text": "pembritabetawi"
+  },
+  {
+    "id": "purwokertoinsight",
+    "text": "purwokertoinsight"
+  },
+  {
+    "id": "foxbandung",
+    "text": "foxbandung"
+  },
+  {
+    "id": "belanga",
+    "text": "belanga"
+  },
+  {
+    "id": "melenggang",
+    "text": "melenggang"
+  },
+  {
+    "id": "paradapos",
+    "text": "paradapos"
+  },
+  {
+    "id": "jurnalpro",
+    "text": "jurnalpro"
+  },
+  {
+    "id": "pandurakyat",
+    "text": "pandurakyat"
+  },
+  {
+    "id": "okenarasi",
+    "text": "okenarasi"
+  },
+  {
+    "id": "klikread",
+    "text": "klikread"
+  },
+  {
+    "id": "pontianakglobe",
+    "text": "pontianakglobe"
+  },
+  {
+    "id": "teknoplay",
+    "text": "teknoplay"
+  },
+  {
+    "id": "indonesiadaily",
+    "text": "indonesiadaily"
+  },
+  {
+    "id": "suaralinggau",
+    "text": "suaralinggau"
+  },
+  {
+    "id": "postrend",
+    "text": "postrend"
+  },
+  {
+    "id": "sinarlombok",
+    "text": "sinarlombok"
+  },
+  {
+    "id": "jabarstyle",
+    "text": "jabarstyle"
+  },
+  {
+    "id": "detail",
+    "text": "detail"
+  },
+  {
+    "id": "tentangindonesia",
+    "text": "tentangindonesia"
+  },
+  {
+    "id": "jurnalmetropolitan",
+    "text": "jurnalmetropolitan"
+  },
+  {
+    "id": "jambiseru",
+    "text": "jambiseru"
+  },
+  {
+    "id": "kliktimes",
+    "text": "kliktimes"
+  },
+  {
+    "id": "klikbanjarnegara",
+    "text": "klikbanjarnegara"
+  },
+  {
+    "id": "jakartainsider",
+    "text": "jakartainsider"
+  },
+  {
+    "id": "alowarta",
+    "text": "alowarta"
+  },
+  {
+    "id": "blitarnetwork",
+    "text": "blitarnetwork"
+  },
+  {
+    "id": "ngawinetwork",
+    "text": "ngawinetwork"
+  },
+  {
+    "id": "tubanetwork",
+    "text": "tubanetwork"
+  },
+  {
+    "id": "pamekasannetwork",
+    "text": "pamekasannetwork"
+  },
+  {
+    "id": "infodinamis",
+    "text": "infodinamis"
+  },
+  {
+    "id": "madiunnetwork",
+    "text": "madiunnetwork"
+  },
+  {
+    "id": "tulungagungnetwork",
+    "text": "tulungagungnetwork"
+  },
+  {
+    "id": "trenggaleknetwork",
+    "text": "trenggaleknetwork"
+  },
+  {
+    "id": "lamongannetwork",
+    "text": "lamongannetwork"
+  },
+  {
+    "id": "jombangnetwork",
+    "text": "jombangnetwork"
+  },
+  {
+    "id": "kilaskepri",
+    "text": "kilaskepri"
+  },
+  {
+    "id": "gresiknetwork",
+    "text": "gresiknetwork"
+  },
+  {
+    "id": "nganjuknetwork",
+    "text": "nganjuknetwork"
+  },
+  {
+    "id": "bojonegoronetwork",
+    "text": "bojonegoronetwork"
+  },
+  {
+    "id": "pacitannetwork",
+    "text": "pacitannetwork"
+  },
+  {
+    "id": "situbondonetwork",
+    "text": "situbondonetwork"
+  },
+  {
+    "id": "ponorogonetwork",
+    "text": "ponorogonetwork"
+  },
+  {
+    "id": "probolinggonetwork",
+    "text": "probolinggonetwork"
+  },
+  {
+    "id": "sekalamedia",
+    "text": "sekalamedia"
+  },
+  {
+    "id": "magetannetwork",
+    "text": "magetannetwork"
+  },
+  {
+    "id": "kedirinetwork",
+    "text": "kedirinetwork"
+  },
+  {
+    "id": "pasuruannetwork",
+    "text": "pasuruannetwork"
+  },
+  {
+    "id": "bangkalannetwork",
+    "text": "bangkalannetwork"
+  },
+  {
+    "id": "fokuspekalongan",
+    "text": "fokuspekalongan"
+  },
+  {
+    "id": "obseshe",
+    "text": "obseshe"
+  },
+  {
+    "id": "harianbolmongraya",
+    "text": "harianbolmongraya"
+  },
+  {
+    "id": "vagansa",
+    "text": "vagansa"
+  },
+  {
+    "id": "panturaraya",
+    "text": "panturaraya"
+  },
+  {
+    "id": "axioma",
+    "text": "axioma"
+  },
+  {
+    "id": "palima",
+    "text": "palima"
+  },
+  {
+    "id": "tubaninfo",
+    "text": "tubaninfo"
+  },
+  {
+    "id": "mahasiswatalk",
+    "text": "mahasiswatalk"
+  },
+  {
+    "id": "kabarsulteng",
+    "text": "kabarsulteng"
+  },
+  {
+    "id": "jurnalindo",
+    "text": "jurnalindo"
+  },
+  {
+    "id": "suarananggroe",
+    "text": "suarananggroe"
+  },
+  {
+    "id": "perstoday",
+    "text": "perstoday"
+  },
+  {
+    "id": "tigapena",
+    "text": "tigapena"
+  },
+  {
+    "id": "literasinetwork",
+    "text": "literasinetwork"
+  },
+  {
+    "id": "nusatimes",
+    "text": "nusatimes"
+  },
+  {
+    "id": "riskid",
+    "text": "riskid"
+  },
+  {
+    "id": "ibarat",
+    "text": "ibarat"
+  },
+  {
+    "id": "bogorprime",
+    "text": "bogorprime"
+  },
+  {
+    "id": "cakrawala",
+    "text": "cakrawala"
+  },
+  {
+    "id": "jurnalflores",
+    "text": "jurnalflores"
+  },
+  {
+    "id": "takadajeda",
+    "text": "takadajeda"
+  },
+  {
+    "id": "arahpandang",
+    "text": "arahpandang"
+  },
+  {
+    "id": "arahpena",
+    "text": "arahpena"
+  },
+  {
+    "id": "kurawalmedia",
+    "text": "kurawalmedia"
+  },
+  {
+    "id": "lembangnews",
+    "text": "lembangnews"
+  },
+  {
+    "id": "ruangharian",
+    "text": "ruangharian"
+  },
+  {
+    "id": "manggarainews",
+    "text": "manggarainews"
+  },
+  {
+    "id": "mahagabut",
+    "text": "mahagabut"
+  },
+  {
+    "id": "bintara",
+    "text": "bintara"
+  },
+  {
+    "id": "pakabar",
+    "text": "pakabar"
+  },
+  {
+    "id": "makenyus",
+    "text": "makenyus"
+  },
+  {
+    "id": "terkni",
+    "text": "terkni"
+  },
+  {
+    "id": "indoneside",
+    "text": "indoneside"
+  },
+  {
+    "id": "wargadesa",
+    "text": "wargadesa"
+  },
+  {
+    "id": "sulutzone",
+    "text": "sulutzone"
+  },
+  {
+    "id": "hellymedia",
+    "text": "hellymedia"
+  },
+  {
+    "id": "siarindo",
+    "text": "siarindo"
+  },
+  {
+    "id": "cirebontimes",
+    "text": "cirebontimes"
+  },
+  {
+    "id": "balitren",
+    "text": "balitren"
+  },
+  {
+    "id": "kabarinspirasijabar",
+    "text": "kabarinspirasijabar"
+  },
+  {
+    "id": "panturatimes",
+    "text": "panturatimes"
+  },
+  {
+    "id": "inindonesia",
+    "text": "inindonesia"
+  },
+  {
+    "id": "jurnalbaca",
+    "text": "jurnalbaca"
+  },
+  {
+    "id": "sumutinsider",
+    "text": "sumutinsider"
+  },
+  {
+    "id": "tudepoin",
+    "text": "tudepoin"
+  },
+  {
+    "id": "maribicaranews",
+    "text": "maribicaranews"
+  },
+  {
+    "id": "terasinfo",
+    "text": "terasinfo"
+  },
+  {
+    "id": "buletinjabar",
+    "text": "buletinjabar"
+  },
+  {
+    "id": "batastimor",
+    "text": "batastimor"
+  },
+  {
+    "id": "journalnusantara",
+    "text": "journalnusantara"
+  },
+  {
+    "id": "viewjabar",
+    "text": "viewjabar"
+  },
+  {
+    "id": "narabandung",
+    "text": "narabandung"
+  },
+  {
+    "id": "catatanfakta",
+    "text": "catatanfakta"
+  },
+  {
+    "id": "hariankripto",
+    "text": "hariankripto"
+  },
+  {
+    "id": "asimetrismedia",
+    "text": "asimetrismedia"
+  },
+  {
+    "id": "metroselebes",
+    "text": "metroselebes"
+  },
+  {
+    "id": "infoliga",
+    "text": "infoliga"
+  },
+  {
+    "id": "sawitkuid",
+    "text": "sawitkuid"
+  },
+  {
+    "id": "pilihanindonesia",
+    "text": "pilihanindonesia"
+  },
+  {
+    "id": "garudarevolution",
+    "text": "garudarevolution"
+  },
+  {
+    "id": "hotlombok",
+    "text": "hotlombok"
+  },
+  {
+    "id": "metrontb",
+    "text": "metrontb"
+  },
+  {
+    "id": "nuansatimur",
+    "text": "nuansatimur"
+  },
+  {
+    "id": "jampasir",
+    "text": "jampasir"
+  },
+  {
+    "id": "jendelapsikologia",
+    "text": "jendelapsikologia"
+  },
+  {
+    "id": "kilaskediriraya",
+    "text": "kilaskediriraya"
+  },
+  {
+    "id": "tredmedia",
+    "text": "tredmedia"
+  },
+  {
+    "id": "suaramerdekabali",
+    "text": "suaramerdekabali"
+  },
+  {
+    "id": "lampungpride",
+    "text": "lampungpride"
+  },
+  {
+    "id": "fokusblora",
+    "text": "fokusblora"
+  },
+  {
+    "id": "jangkarasulsel",
+    "text": "jangkarasulsel"
+  },
+  {
+    "id": "jangkararesep",
+    "text": "jangkararesep"
+  },
+  {
+    "id": "jangkarapendidikan",
+    "text": "jangkarapendidikan"
+  },
+  {
+    "id": "jangkaraekonomi",
+    "text": "jangkaraekonomi"
+  },
+  {
+    "id": "jangkarajakarta",
+    "text": "jangkarajakarta"
+  },
+  {
+    "id": "jangkarajatim",
+    "text": "jangkarajatim"
+  },
+  {
+    "id": "manadonesia",
+    "text": "manadonesia"
+  },
+  {
+    "id": "selebritiinsider",
+    "text": "selebritiinsider"
+  },
+  {
+    "id": "warnanusa",
+    "text": "warnanusa"
+  },
+  {
+    "id": "proikn",
+    "text": "proikn"
+  },
+  {
+    "id": "pejuangkantoran",
+    "text": "pejuangkantoran"
+  },
+  {
+    "id": "bromotoday",
+    "text": "bromotoday"
+  },
+  {
+    "id": "wowbelitung",
+    "text": "wowbelitung"
+  },
+  {
+    "id": "wowbasel",
+    "text": "wowbasel"
+  },
+  {
+    "id": "wowsumsel",
+    "text": "wowsumsel"
+  },
+  {
+    "id": "metroaspirasiku",
+    "text": "metroaspirasiku"
+  },
+  {
+    "id": "voicesulawesi",
+    "text": "voicesulawesi"
+  },
+  {
+    "id": "kilat",
+    "text": "kilat"
+  },
+  {
+    "id": "jurnalismenews",
+    "text": "jurnalismenews"
+  },
+  {
+    "id": "sinareditorial",
+    "text": "sinareditorial"
+  },
+  {
+    "id": "suaraperbatasan",
+    "text": "suaraperbatasan"
+  },
+  {
+    "id": "siberkalimantan",
+    "text": "siberkalimantan"
+  },
+  {
+    "id": "melansir",
+    "text": "melansir"
+  },
+  {
+    "id": "selingkarwilis",
+    "text": "selingkarwilis"
+  },
+  {
+    "id": "nusrainside",
+    "text": "nusrainside"
+  },
+  {
+    "id": "klikmedianet",
+    "text": "klikmedianet"
+  },
+  {
+    "id": "sagalanews",
+    "text": "sagalanews"
+  },
+  {
+    "id": "cepatupdate",
+    "text": "cepatupdate"
+  },
+  {
+    "id": "ketapelnews",
+    "text": "ketapelnews"
+  },
+  {
+    "id": "wartanetnews",
+    "text": "wartanetnews"
+  },
+  {
+    "id": "ourindonesia",
+    "text": "ourindonesia"
+  },
+  {
+    "id": "penulispro",
+    "text": "penulispro"
+  },
+  {
+    "id": "sagaranesia",
+    "text": "sagaranesia"
+  },
+  {
+    "id": "spiritrakyat",
+    "text": "spiritrakyat"
+  },
+  {
+    "id": "sisijabar",
+    "text": "sisijabar"
+  },
+  {
+    "id": "suarasiantar",
+    "text": "suarasiantar"
+  },
+  {
+    "id": "idfeeds",
+    "text": "idfeeds"
+  },
+  {
+    "id": "joglomedia",
+    "text": "joglomedia"
+  },
+  {
+    "id": "inikebumen",
+    "text": "inikebumen"
+  },
+  {
+    "id": "mojokertonetwork",
+    "text": "mojokertonetwork"
+  },
+  {
+    "id": "anekaindonesia",
+    "text": "anekaindonesia"
+  },
+  {
+    "id": "indomostviral",
+    "text": "indomostviral"
+  },
+  {
+    "id": "indonesiafolks",
+    "text": "indonesiafolks"
+  },
+  {
+    "id": "jaditau",
+    "text": "jaditau"
+  },
+  {
+    "id": "kvibes",
+    "text": "kvibes"
+  },
+  {
+    "id": "gerbangnalar",
+    "text": "gerbangnalar"
+  },
+  {
+    "id": "insulut",
+    "text": "insulut"
+  },
+  {
+    "id": "inriau",
+    "text": "inriau"
+  },
+  {
+    "id": "sepakterjang",
+    "text": "sepakterjang"
+  },
+  {
+    "id": "galerisumba",
+    "text": "galerisumba"
+  },
+  {
+    "id": "dailynotif",
+    "text": "dailynotif"
+  },
+  {
+    "id": "suarahits",
+    "text": "suarahits"
+  },
+  {
+    "id": "rekanmedia",
+    "text": "rekanmedia"
+  },
+  {
+    "id": "eduhistoria",
+    "text": "eduhistoria"
+  },
+  {
+    "id": "bacagituloh",
+    "text": "bacagituloh"
+  },
+  {
+    "id": "jatimhariini",
+    "text": "jatimhariini"
+  },
+  {
+    "id": "portalindramayu",
+    "text": "portalindramayu"
+  },
+  {
+    "id": "portalmusirawas",
+    "text": "portalmusirawas"
+  },
+  {
+    "id": "blitarterkini",
+    "text": "blitarterkini"
+  },
+  {
+    "id": "panturanetwork",
+    "text": "panturanetwork"
+  },
+  {
+    "id": "poperland",
+    "text": "poperland"
+  },
+  {
+    "id": "olenas",
+    "text": "olenas"
+  },
+  {
+    "id": "pengabar",
+    "text": "pengabar"
+  },
+  {
+    "id": "relevania",
+    "text": "relevania"
+  },
+  {
+    "id": "indoinsider",
+    "text": "indoinsider"
+  },
+  {
+    "id": "menit24",
+    "text": "menit24"
+  },
+  {
+    "id": "bandunginsider",
+    "text": "bandunginsider"
+  },
+  {
+    "id": "spasika",
+    "text": "spasika"
+  },
+  {
+    "id": "urbancianjur",
+    "text": "urbancianjur"
+  },
+  {
+    "id": "urbangarut",
+    "text": "urbangarut"
+  },
+  {
+    "id": "suaramerdekaterawang",
+    "text": "suaramerdekaterawang"
+  },
+  {
+    "id": "suaramerdekakabarviral",
+    "text": "suaramerdekakabarviral"
+  },
+  {
+    "id": "dewantaranews",
+    "text": "dewantaranews"
+  },
+  {
+    "id": "okeguys",
+    "text": "okeguys"
+  },
+  {
+    "id": "baliwara",
+    "text": "baliwara"
+  },
+  {
+    "id": "dicintai",
+    "text": "dicintai"
+  },
+  {
+    "id": "medaninsider",
+    "text": "medaninsider"
+  },
+  {
+    "id": "surabayainsider",
+    "text": "surabayainsider"
+  },
+  {
+    "id": "alineaberita",
+    "text": "alineaberita"
+  },
+  {
+    "id": "kabarbuana",
+    "text": "kabarbuana"
+  },
+  {
+    "id": "zonafakta",
+    "text": "zonafakta"
+  },
+  {
+    "id": "heloberita",
+    "text": "heloberita"
+  },
+  {
+    "id": "sepasinews",
+    "text": "sepasinews"
+  },
+  {
+    "id": "borneostreet",
+    "text": "borneostreet"
+  },
+  {
+    "id": "bolinggotv",
+    "text": "bolinggotv"
+  },
+  {
+    "id": "wanodia",
+    "text": "wanodia"
+  },
+  {
+    "id": "wacanan",
+    "text": "wacanan"
+  },
+  {
+    "id": "analisnews",
+    "text": "analisnews"
+  },
+  {
+    "id": "Mata Delta",
+    "text": "Mata Delta"
+  },
+  {
+    "id": "kpopchart",
+    "text": "kpopchart"
+  },
+  {
+    "id": "innewspedia",
+    "text": "innewspedia"
+  },
+  {
+    "id": "kanalbaru",
+    "text": "kanalbaru"
+  },
+  {
+    "id": "metrosatu",
+    "text": "metrosatu"
+  },
+  {
+    "id": "kanalone",
+    "text": "kanalone"
+  },
+  {
+    "id": "sahabatsemesta",
+    "text": "sahabatsemesta"
+  },
+  {
+    "id": "jejakini",
+    "text": "jejakini"
+  },
+  {
+    "id": "zonabaca",
+    "text": "zonabaca"
+  },
+  {
+    "id": "pepo",
+    "text": "pepo"
+  },
+  {
+    "id": "tigafase",
+    "text": "tigafase"
+  },
+  {
+    "id": "relung",
+    "text": "relung"
+  },
+  {
+    "id": "lampungtime",
+    "text": "lampungtime"
+  },
+  {
+    "id": "detakterkini",
+    "text": "detakterkini"
+  },
+  {
+    "id": "kanalsuara",
+    "text": "kanalsuara"
+  },
+  {
+    "id": "timetoday",
+    "text": "timetoday"
+  },
+  {
+    "id": "wartatimor",
+    "text": "wartatimor"
+  },
+  {
+    "id": "sumaterainsider",
+    "text": "sumaterainsider"
+  },
+  {
+    "id": "balipopuler",
+    "text": "balipopuler"
+  },
+  {
+    "id": "sinarmerdeka",
+    "text": "sinarmerdeka"
+  },
+  {
+    "id": "heipop",
+    "text": "heipop"
+  },
+  {
+    "id": "senangsenang",
+    "text": "senangsenang"
+  },
+  {
+    "id": "busurnusa",
+    "text": "busurnusa"
+  },
+  {
+    "id": "tinjauindonesia",
+    "text": "tinjauindonesia"
+  },
+  {
+    "id": "surakartapos",
+    "text": "surakartapos"
+  },
+  {
+    "id": "indonesianchannel",
+    "text": "indonesianchannel"
+  },
+  {
+    "id": "yokalbar",
+    "text": "yokalbar"
+  },
+  {
+    "id": "harianmemokepri",
+    "text": "harianmemokepri"
+  },
+  {
+    "id": "rbg",
+    "text": "rbg"
+  },
+  {
+    "id": "radarcianjur",
+    "text": "radarcianjur"
+  },
+  {
+    "id": "radardepok",
+    "text": "radardepok"
+  },
+  {
+    "id": "programanesia",
+    "text": "programanesia"
+  },
+  {
+    "id": "sundaurang",
+    "text": "sundaurang"
+  },
+  {
+    "id": "radarsukabumi",
+    "text": "radarsukabumi"
+  },
+  {
+    "id": "rahasiagadis",
+    "text": "rahasiagadis"
+  },
+  {
+    "id": "radarjabar",
+    "text": "radarjabar"
+  },
+  {
+    "id": "idisionline",
+    "text": "idisionline"
+  },
+  {
+    "id": "metropolitan",
+    "text": "metropolitan"
+  },
+  {
+    "id": "inspirasinusantara",
+    "text": "inspirasinusantara"
+  },
+  {
+    "id": "initrends",
+    "text": "initrends"
+  },
+  {
+    "id": "alifnews",
+    "text": "alifnews"
+  },
+  {
+    "id": "porosampera",
+    "text": "porosampera"
+  },
+  {
+    "id": "injurnal",
+    "text": "injurnal"
+  },
+  {
+    "id": "ketikpos",
+    "text": "ketikpos"
+  },
+  {
+    "id": "genmilenial",
+    "text": "genmilenial"
+  },
+  {
+    "id": "infoindonesia",
+    "text": "infoindonesia"
+  },
+  {
+    "id": "mediasungailiat",
+    "text": "mediasungailiat"
+  },
+  {
+    "id": "hulondalo",
+    "text": "hulondalo"
+  },
+  {
+    "id": "cianjurtoday",
+    "text": "cianjurtoday"
+  },
+  {
+    "id": "bytrendz",
+    "text": "bytrendz"
+  },
+  {
+    "id": "moeslimchoice",
+    "text": "moeslimchoice"
+  },
+  {
+    "id": "senayanpost",
+    "text": "senayanpost"
+  },
+  {
+    "id": "topstories",
+    "text": "topstories"
+  },
+  {
+    "id": "bidiktangsel",
+    "text": "bidiktangsel"
+  },
+  {
+    "id": "ragamsumsel",
+    "text": "ragamsumsel"
+  },
+  {
+    "id": "manuskripmagazine",
+    "text": "manuskripmagazine"
+  },
+  {
+    "id": "ukmnusantara",
+    "text": "ukmnusantara"
+  },
+  {
+    "id": "detiksumsel",
+    "text": "detiksumsel"
+  },
+  {
+    "id": "bandungnews",
+    "text": "bandungnews"
+  },
+  {
+    "id": "suaramerdekasport",
+    "text": "suaramerdekasport"
+  },
+  {
+    "id": "venomena",
+    "text": "venomena"
+  },
+  {
+    "id": "urbankota",
+    "text": "urbankota"
+  },
+  {
+    "id": "jalurinfosulbar",
+    "text": "jalurinfosulbar"
+  },
+  {
+    "id": "dikasihinfo",
+    "text": "dikasihinfo"
+  },
+  {
+    "id": "kelumajang",
+    "text": "kelumajang"
+  },
+  {
+    "id": "klikhalmahera",
+    "text": "klikhalmahera"
+  },
+  {
+    "id": "kliksaja",
+    "text": "kliksaja"
+  },
+  {
+    "id": "lensanesia",
+    "text": "lensanesia"
+  },
+  {
+    "id": "jurnalstyle",
+    "text": "jurnalstyle"
+  },
+  {
+    "id": "kepodeh",
+    "text": "kepodeh"
+  },
+  {
+    "id": "laraspost",
+    "text": "laraspost"
+  },
+  {
+    "id": "jaringnews",
+    "text": "jaringnews"
+  },
+  {
+    "id": "channeljatim",
+    "text": "channeljatim"
+  },
+  {
+    "id": "kilattapanuli",
+    "text": "kilattapanuli"
+  },
+  {
+    "id": "ceritatoday",
+    "text": "ceritatoday"
+  },
+  {
+    "id": "moremediaid",
+    "text": "moremediaid"
+  },
+  {
+    "id": "kilatmedan",
+    "text": "kilatmedan"
+  },
+  {
+    "id": "bharata",
+    "text": "bharata"
+  },
+  {
+    "id": "timenews",
+    "text": "timenews"
+  },
+  {
+    "id": "www.inforia.id",
+    "text": "www.inforia.id"
+  },
+  {
+    "id": "lamongannetwork",
+    "text": "lamongannetwork"
+  },
+  {
+    "id": "batunetwork",
+    "text": "batunetwork"
+  },
+  {
+    "id": "malukunetwork",
+    "text": "malukunetwork"
+  },
+  {
+    "id": "zonasports",
+    "text": "zonasports"
+  },
+  {
+    "id": "sinaranid",
+    "text": "sinaranid"
+  },
+  {
+    "id": "blitarnetwork",
+    "text": "blitarnetwork"
+  },
+  {
+    "id": "mediapromed",
+    "text": "mediapromed"
+  },
+  {
+    "id": "sugawa",
+    "text": "sugawa"
+  },
+  {
+    "id": "kilatpurwakarta",
+    "text": "kilatpurwakarta"
+  },
+  {
+    "id": "halogenz",
+    "text": "halogenz"
+  },
+  {
+    "id": "barlingmasmedia",
+    "text": "barlingmasmedia"
+  },
+  {
+    "id": "biznislinggau",
+    "text": "biznislinggau"
+  },
+  {
+    "id": "kilatjateng",
+    "text": "kilatjateng"
+  },
+  {
+    "id": "solusiharian",
+    "text": "solusiharian"
+  },
+  {
+    "id": "info1",
+    "text": "info1"
+  },
+  {
+    "id": "netitalk",
+    "text": "netitalk"
+  },
+  {
+    "id": "radarkarawang",
+    "text": "radarkarawang"
+  },
+  {
+    "id": "mediaekspres",
+    "text": "mediaekspres"
+  },
+  {
+    "id": "delikjabar",
+    "text": "delikjabar"
+  },
+  {
+    "id": "ceritojambi",
+    "text": "ceritojambi"
+  },
+  {
+    "id": "kabar4",
+    "text": "kabar4"
+  },
+  {
+    "id": "kilattegal",
+    "text": "kilattegal"
+  },
+  {
+    "id": "medanesia",
+    "text": "medanesia"
+  },
+  {
+    "id": "bilikriau",
+    "text": "bilikriau"
+  },
+  {
+    "id": "indonesiaberita",
+    "text": "indonesiaberita"
+  },
+  {
+    "id": "trendingsumsel",
+    "text": "trendingsumsel"
+  },
+  {
+    "id": "rakyatkarawang",
+    "text": "rakyatkarawang"
+  },
+  {
+    "id": "realitasonline",
+    "text": "realitasonline"
+  },
+  {
+    "id": "riaumakmur",
+    "text": "riaumakmur"
+  },
+  {
+    "id": "kilatsemarang",
+    "text": "kilatsemarang"
+  },
+  {
+    "id": "mininginsider",
+    "text": "mininginsider"
+  },
+  {
+    "id": "borneoglobe",
+    "text": "borneoglobe"
+  },
+  {
+    "id": "gartonnews",
+    "text": "gartonnews"
+  },
+  {
+    "id": "kilatsolo",
+    "text": "kilatsolo"
+  },
+  {
+    "id": "jakartavoice",
+    "text": "jakartavoice"
+  },
+  {
+    "id": "kilatpapua",
+    "text": "kilatpapua"
+  },
+  {
+    "id": "wowindonesia",
+    "text": "wowindonesia"
+  },
+  {
+    "id": "suaramerdekawongapak",
+    "text": "suaramerdekawongapak"
+  },
+  {
+    "id": "babadjogja",
+    "text": "babadjogja"
+  },
+  {
+    "id": "suaramerdekakendal",
+    "text": "suaramerdekakendal"
+  },
+  {
+    "id": "suaramerdekantt",
+    "text": "suaramerdekantt"
+  },
+  {
+    "id": "reyben-entertainment",
+    "text": "reyben-entertainment"
+  },
+  {
+    "id": "klikbantuan",
+    "text": "klikbantuan"
+  },
+  {
+    "id": "www.goraedu.com",
+    "text": "www.goraedu.com"
+  },
+  {
+    "id": "teknonetwork",
+    "text": "teknonetwork"
+  },
+  {
+    "id": "bisnispekanbaru",
+    "text": "bisnispekanbaru"
+  },
+  {
+    "id": "suaramerdekatekno",
+    "text": "suaramerdekatekno"
+  },
+  {
+    "id": "suaramerdekalifestyle",
+    "text": "suaramerdekalifestyle"
+  },
+  {
+    "id": "suaramerdekakebumen",
+    "text": "suaramerdekakebumen"
+  },
+  {
+    "id": "suaramerdekajabar",
+    "text": "suaramerdekajabar"
+  },
+  {
+    "id": "suaramerdekatangerang",
+    "text": "suaramerdekatangerang"
+  },
+  {
+    "id": "publika",
+    "text": "publika"
+  },
+  {
+    "id": "sewaktuplus",
+    "text": "sewaktuplus"
+  },
+  {
+    "id": "teknoinsider",
+    "text": "teknoinsider"
+  },
+  {
+    "id": "fokustekno",
+    "text": "fokustekno"
+  },
+  {
+    "id": "timesumut",
+    "text": "timesumut"
+  },
+  {
+    "id": "radarupdate",
+    "text": "radarupdate"
+  },
+  {
+    "id": "cybertokoh",
+    "text": "cybertokoh"
+  },
+  {
+    "id": "www.denpost.id",
+    "text": "www.denpost.id"
+  },
+  {
+    "id": "balitravelnews",
+    "text": "balitravelnews"
+  },
+  {
+    "id": "mengertigawai",
+    "text": "mengertigawai"
+  },
+  {
+    "id": "jurnalisnetwork",
+    "text": "jurnalisnetwork"
+  },
+  {
+    "id": "mediakepricoid",
+    "text": "mediakepricoid"
+  },
+  {
+    "id": "jatengzone",
+    "text": "jatengzone"
+  },
+  {
+    "id": "suaramerdekasurabaya",
+    "text": "suaramerdekasurabaya"
+  },
+  {
+    "id": "kabarbaitullah",
+    "text": "kabarbaitullah"
+  },
+  {
+    "id": "persibayobandung",
+    "text": "persibayobandung"
+  },
+  {
+    "id": "infomuslim",
+    "text": "infomuslim"
+  },
+  {
+    "id": "infobollywood",
+    "text": "infobollywood"
+  },
+  {
+    "id": "luarlapangan",
+    "text": "luarlapangan"
+  },
+  {
+    "id": "kilatkuliner",
+    "text": "kilatkuliner"
+  },
+  {
+    "id": "jaktimnews",
+    "text": "jaktimnews"
+  },
+  {
+    "id": "kilatseleb",
+    "text": "kilatseleb"
+  },
+  {
+    "id": "kilatkhazanah",
+    "text": "kilatkhazanah"
+  },
+  {
+    "id": "metrobogor",
+    "text": "metrobogor"
+  },
+  {
+    "id": "infosumatera",
+    "text": "infosumatera"
+  },
+  {
+    "id": "dess",
+    "text": "dess"
+  },
+  {
+    "id": "kilatkonstruksi",
+    "text": "kilatkonstruksi"
+  },
+  {
+    "id": "www.jakpusnews.com",
+    "text": "www.jakpusnews.com"
+  },
+  {
+    "id": "ayomuba",
+    "text": "ayomuba"
+  },
+  {
+    "id": "suaramerdekapurbalingga",
+    "text": "suaramerdekapurbalingga"
+  },
+  {
+    "id": "indonesiainsider",
+    "text": "indonesiainsider"
+  },
+  {
+    "id": "kabarmegapolitan",
+    "text": "kabarmegapolitan"
+  },
+  {
+    "id": "www.mimbarmerdeka.com",
+    "text": "www.mimbarmerdeka.com"
+  },
+  {
+    "id": "www.bekasi24jam.com",
+    "text": "www.bekasi24jam.com"
+  },
+  {
+    "id": "klikbarito",
+    "text": "klikbarito"
+  },
+  {
+    "id": "ayooku",
+    "text": "ayooku"
+  },
+  {
+    "id": "ayobanyuwangi",
+    "text": "ayobanyuwangi"
+  },
+  {
+    "id": "ayotrenggalek",
+    "text": "ayotrenggalek"
+  },
+  {
+    "id": "ayokudus",
+    "text": "ayokudus"
+  },
+  {
+    "id": "ayogarut",
+    "text": "ayogarut"
+  },
+  {
+    "id": "suaramerdekajatim",
+    "text": "suaramerdekajatim"
+  },
+  {
+    "id": "ayokarawang",
+    "text": "ayokarawang"
+  },
+  {
+    "id": "bandungtv",
+    "text": "bandungtv"
+  },
+  {
+    "id": "ayocilacap",
+    "text": "ayocilacap"
+  },
+  {
+    "id": "ayoboyolali",
+    "text": "ayoboyolali"
+  },
+  {
+    "id": "ayokebumen",
+    "text": "ayokebumen"
+  },
+  {
+    "id": "ayokendal",
+    "text": "ayokendal"
+  },
+  {
+    "id": "ayobanyumas",
+    "text": "ayobanyumas"
+  },
+  {
+    "id": "ayopurbalingga",
+    "text": "ayopurbalingga"
+  },
+  {
+    "id": "ayotangerang",
+    "text": "ayotangerang"
+  },
+  {
+    "id": "ayolahat",
+    "text": "ayolahat"
+  },
+  {
+    "id": "ayomuaraenim",
+    "text": "ayomuaraenim"
+  },
+  {
+    "id": "ayooki",
+    "text": "ayooki"
+  },
+  {
+    "id": "ayopurworejo",
+    "text": "ayopurworejo"
+  },
+  {
+    "id": "ayorembang",
+    "text": "ayorembang"
+  },
+  {
+    "id": "ayosragen",
+    "text": "ayosragen"
+  },
+  {
+    "id": "ayocianjur",
+    "text": "ayocianjur"
+  },
+  {
+    "id": "ayomagelang",
+    "text": "ayomagelang"
+  },
+  {
+    "id": "ayoklaten",
+    "text": "ayoklaten"
+  },
+  {
+    "id": "ayopekalongan",
+    "text": "ayopekalongan"
+  },
+  {
+    "id": "ayotemanggung",
+    "text": "ayotemanggung"
+  },
+  {
+    "id": "ayowonogiri",
+    "text": "ayowonogiri"
+  },
+  {
+    "id": "ayowonosobo",
+    "text": "ayowonosobo"
+  },
+  {
+    "id": "ayopati",
+    "text": "ayopati"
+  },
+  {
+    "id": "ayojember",
+    "text": "ayojember"
+  },
+  {
+    "id": "ayolamongan",
+    "text": "ayolamongan"
+  },
+  {
+    "id": "ayomadura",
+    "text": "ayomadura"
+  },
+  {
+    "id": "ayobondowoso",
+    "text": "ayobondowoso"
+  },
+  {
+    "id": "ayogresik",
+    "text": "ayogresik"
+  },
+  {
+    "id": "ayonganjuk",
+    "text": "ayonganjuk"
+  },
+  {
+    "id": "ayojombang",
+    "text": "ayojombang"
+  },
+  {
+    "id": "ayoblitar",
+    "text": "ayoblitar"
+  },
+  {
+    "id": "ayobojonegoro",
+    "text": "ayobojonegoro"
+  },
+  {
+    "id": "www.kliknasional.com",
+    "text": "www.kliknasional.com"
+  },
+  {
+    "id": "www.ifa.id",
+    "text": "www.ifa.id"
+  },
+  {
+    "id": "promedia-jp",
+    "text": "promedia-jp"
+  },
+  {
+    "id": "borneoglobe",
+    "text": "borneoglobe"
+  },
+  {
+    "id": "gartonnews",
+    "text": "gartonnews"
+  },
+  {
+    "id": "amateurtvnews",
+    "text": "amateurtvnews"
+  },
+  {
+    "id": "bantentrust",
+    "text": "bantentrust"
+  },
+  {
+    "id": "porosjakarta",
+    "text": "porosjakarta"
+  },
+  {
+    "id": "portibinews",
+    "text": "portibinews"
+  },
+  {
+    "id": "argumen",
+    "text": "argumen"
+  },
+  {
+    "id": "medanhot",
+    "text": "medanhot"
+  },
+  {
+    "id": "lintaspromedia",
+    "text": "lintaspromedia"
+  },
+  {
+    "id": "kabarbumn",
+    "text": "kabarbumn"
+  },
+  {
+    "id": "sabogoran",
+    "text": "sabogoran"
+  },
+  {
+    "id": "metrojambi",
+    "text": "metrojambi"
+  },
+  {
+    "id": "plnkabarbumn",
+    "text": "plnkabarbumn"
+  },
+  {
+    "id": "brikabarbumn",
+    "text": "brikabarbumn"
+  },
+  {
+    "id": "pertaminakabarbumn",
+    "text": "pertaminakabarbumn"
+  },
+  {
+    "id": "ifgkababumn",
+    "text": "ifgkababumn"
+  },
+  {
+    "id": "beritajogja",
+    "text": "beritajogja"
+  },
+  {
+    "id": "mediahariankita",
+    "text": "mediahariankita"
+  },
+  {
+    "id": "suaratimurdaily",
+    "text": "suaratimurdaily"
+  },
+  {
+    "id": "erabarumedia",
+    "text": "erabarumedia"
+  },
+  {
+    "id": "pojokbaca",
+    "text": "pojokbaca"
+  },
+  {
+    "id": "cariaku",
+    "text": "cariaku"
+  },
+  {
+    "id": "ruangkota",
+    "text": "ruangkota"
+  },
+  {
+    "id": "klikhits",
+    "text": "klikhits"
+  },
+  {
+    "id": "borneodaily",
+    "text": "borneodaily"
+  },
+  {
+    "id": "gol",
+    "text": "gol"
+  },
+  {
+    "id": "manadopost.jawapos.com",
+    "text": "manadopost.jawapos.com"
+  },
+  {
+    "id": "tatkala",
+    "text": "tatkala"
+  },
+  {
+    "id": "jagosatu",
+    "text": "jagosatu"
+  },
+  {
+    "id": "gorontalopost.jawapos.com",
+    "text": "gorontalopost.jawapos.com"
+  },
+  {
+    "id": "radarpapua.jawapos.com",
+    "text": "radarpapua.jawapos.com"
+  },
+  {
+    "id": "kabarontime",
+    "text": "kabarontime"
+  },
+  {
+    "id": "melintas",
+    "text": "melintas"
+  },
+  {
+    "id": "mesinbaca",
+    "text": "mesinbaca"
+  },
+  {
+    "id": "bicarabaik",
+    "text": "bicarabaik"
+  },
+  {
+    "id": "kendarinews",
+    "text": "kendarinews"
+  },
+  {
+    "id": "titikfokus",
+    "text": "titikfokus"
+  },
+  {
+    "id": "ponggawanews",
+    "text": "ponggawanews"
+  },
+  {
+    "id": "rakyatmaluku",
+    "text": "rakyatmaluku"
+  },
+  {
+    "id": "kupangnews",
+    "text": "kupangnews"
+  },
+  {
+    "id": "tigaaksara",
+    "text": "tigaaksara"
+  },
+  {
+    "id": "indozonelife",
+    "text": "indozonelife"
+  },
+  {
+    "id": "indozonefadami",
+    "text": "indozonefadami"
+  },
+  {
+    "id": "indozoneseleb",
+    "text": "indozoneseleb"
+  },
+  {
+    "id": "indozonemovie",
+    "text": "indozonemovie"
+  },
+  {
+    "id": "indozonebeauty",
+    "text": "indozonebeauty"
+  },
+  {
+    "id": "indozonehealth",
+    "text": "indozonehealth"
+  },
+  {
+    "id": "klikkata",
+    "text": "klikkata"
+  },
+  {
+    "id": "rakyatsultra",
+    "text": "rakyatsultra"
+  },
+  {
+    "id": "bedasisi",
+    "text": "bedasisi"
+  },
+  {
+    "id": "pontianaknews",
+    "text": "pontianaknews"
+  },
+  {
+    "id": "jakartajakarta",
+    "text": "jakartajakarta"
+  },
+  {
+    "id": "selebgram",
+    "text": "selebgram"
+  },
+  {
+    "id": "jatitimes",
+    "text": "jatitimes"
+  },
+  {
+    "id": "idncitizen",
+    "text": "idncitizen"
+  },
+  {
+    "id": "pojoknusa",
+    "text": "pojoknusa"
+  },
+  {
+    "id": "viralnews",
+    "text": "viralnews"
+  },
+  {
+    "id": "kalbardigital",
+    "text": "kalbardigital"
+  },
+  {
+    "id": "lintasan",
+    "text": "lintasan"
+  },
+  {
+    "id": "khazanah",
+    "text": "khazanah"
+  },
+  {
+    "id": "pengamatsepakbola",
+    "text": "pengamatsepakbola"
+  },
+  {
+    "id": "genmuslim",
+    "text": "genmuslim"
+  },
+  {
+    "id": "langitviral",
+    "text": "langitviral"
+  },
+  {
+    "id": "radarjogja.jawapos.com",
+    "text": "radarjogja.jawapos.com"
+  },
+  {
+    "id": "radarjombang.jawapos.com",
+    "text": "radarjombang.jawapos.com"
+  },
+  {
+    "id": "baliexpress.jawapos.com",
+    "text": "baliexpress.jawapos.com"
+  },
+  {
+    "id": "radarmagelang.jawapos.com",
+    "text": "radarmagelang.jawapos.com"
+  },
+  {
+    "id": "radarkudus.jawapos.com",
+    "text": "radarkudus.jawapos.com"
+  },
+  {
+    "id": "radarbali.jawapos.com",
+    "text": "radarbali.jawapos.com"
+  },
+  {
+    "id": "radarbojonegoro.jawapos.com",
+    "text": "radarbojonegoro.jawapos.com"
+  },
+  {
+    "id": "radarsemarang.jawapos.com",
+    "text": "radarsemarang.jawapos.com"
+  },
+  {
+    "id": "suarhijrah",
+    "text": "suarhijrah"
+  },
+  {
+    "id": "radarmadura.jawapos.com",
+    "text": "radarmadura.jawapos.com"
+  },
+  {
+    "id": "radarbanyuwangi.jawapos.com",
+    "text": "radarbanyuwangi.jawapos.com"
+  },
+  {
+    "id": "radartulungagung.jawapos.com",
+    "text": "radartulungagung.jawapos.com"
+  },
+  {
+    "id": "radarsurabaya.jawapos.com",
+    "text": "radarsurabaya.jawapos.com"
+  },
+  {
+    "id": "radarkediri.jawapos.com",
+    "text": "radarkediri.jawapos.com"
+  },
+  {
+    "id": "radarjember.jawapos.com",
+    "text": "radarjember.jawapos.com"
+  },
+  {
+    "id": "radarmadiun.jawapos.com",
+    "text": "radarmadiun.jawapos.com"
+  },
+  {
+    "id": "radarmalang.jawapos.com",
+    "text": "radarmalang.jawapos.com"
+  },
+  {
+    "id": "radarmojokerto.jawapos.com",
+    "text": "radarmojokerto.jawapos.com"
+  },
+  {
+    "id": "radargresik.jawapos.com",
+    "text": "radargresik.jawapos.com"
+  },
+  {
+    "id": "radarsolo.jawapos.com",
+    "text": "radarsolo.jawapos.com"
+  },
+  {
+    "id": "radarsidoarjo.jawapos.com",
+    "text": "radarsidoarjo.jawapos.com"
+  },
+  {
+    "id": "radartuban.jawapos.com",
+    "text": "radartuban.jawapos.com"
+  },
+  {
+    "id": "mediapedomanindonesia",
+    "text": "mediapedomanindonesia"
+  },
+  {
+    "id": "mojokertomedia",
+    "text": "mojokertomedia"
+  },
+  {
+    "id": "winnews",
+    "text": "winnews"
+  },
+  {
+    "id": "healmind",
+    "text": "healmind"
+  },
+  {
+    "id": "indozonenews",
+    "text": "indozonenews"
+  },
+  {
+    "id": "indozonetech",
+    "text": "indozonetech"
+  },
+  {
+    "id": "indozoneotomotif",
+    "text": "indozoneotomotif"
+  },
+  {
+    "id": "indozonefood",
+    "text": "indozonefood"
+  },
+  {
+    "id": "indozonetravel",
+    "text": "indozonetravel"
+  },
+  {
+    "id": "indozonegame",
+    "text": "indozonegame"
+  },
+  {
+    "id": "indozonemusic",
+    "text": "indozonemusic"
+  },
+  {
+    "id": "indozonesoccer",
+    "text": "indozonesoccer"
+  },
+  {
+    "id": "indozonesport",
+    "text": "indozonesport"
+  },
+  {
+    "id": "radarbromo.jawapos.com",
+    "text": "radarbromo.jawapos.com"
+  },
+  {
+    "id": "seputarntb",
+    "text": "seputarntb"
+  },
+  {
+    "id": "fativa",
+    "text": "fativa"
+  },
+  {
+    "id": "erapos",
+    "text": "erapos"
+  },
+  {
+    "id": "www.pacunews.com",
+    "text": "www.pacunews.com"
+  },
+  {
+    "id": "ragamkendari",
+    "text": "ragamkendari"
+  },
+  {
+    "id": "kabarpalu",
+    "text": "kabarpalu"
+  },
+  {
+    "id": "klikmaluku",
+    "text": "klikmaluku"
+  },
+  {
+    "id": "pojoksatu",
+    "text": "pojoksatu"
+  },
+  {
+    "id": "aruskabar",
+    "text": "aruskabar"
+  },
+  {
+    "id": "qubaca",
+    "text": "qubaca"
+  },
+  {
+    "id": "",
+    "text": ""
+  },
+  {
+    "id": "goranews",
+    "text": "goranews"
+  },
+  {
+    "id": "pojokbekasi",
+    "text": "pojokbekasi"
+  },
+  {
+    "id": "pojoksulsel",
+    "text": "pojoksulsel"
+  },
+  {
+    "id": "pojokbogor",
+    "text": "pojokbogor"
+  },
+  {
+    "id": "paradigma",
+    "text": "paradigma"
+  },
+  {
+    "id": "suarabelantaraborneo",
+    "text": "suarabelantaraborneo"
+  },
+  {
+    "id": "kasatmata",
+    "text": "kasatmata"
+  },
+  {
+    "id": "beritrust",
+    "text": "beritrust"
+  },
+  {
+    "id": "visitpacitan",
+    "text": "visitpacitan"
+  },
+  {
+    "id": "wadahinspirasi",
+    "text": "wadahinspirasi"
+  },
+  {
+    "id": "tributeindonesia",
+    "text": "tributeindonesia"
+  },
+  {
+    "id": "kalbaroke",
+    "text": "kalbaroke"
+  },
+  {
+    "id": "krjogja",
+    "text": "krjogja"
+  },
+  {
+    "id": "arahpublik",
+    "text": "arahpublik"
+  },
+  {
+    "id": "mirrorpontianak",
+    "text": "mirrorpontianak"
+  },
+  {
+    "id": "diantimur",
+    "text": "diantimur"
+  },
+  {
+    "id": "nkri24jam",
+    "text": "nkri24jam"
+  },
+  {
+    "id": "tempa",
+    "text": "tempa"
+  },
+  {
+    "id": "akurat",
+    "text": "akurat"
+  },
+  {
+    "id": "akuratjakarta",
+    "text": "akuratjakarta"
+  },
+  {
+    "id": "akuratbanten",
+    "text": "akuratbanten"
+  },
+  {
+    "id": "akuratjateng",
+    "text": "akuratjateng"
+  },
+  {
+    "id": "akuratkaltim",
+    "text": "akuratkaltim"
+  },
+  {
+    "id": "akuratjatim",
+    "text": "akuratjatim"
+  },
+  {
+    "id": "jambione",
+    "text": "jambione"
+  },
+  {
+    "id": "ceritanesia",
+    "text": "ceritanesia"
+  },
+  {
+    "id": "inteligensia",
+    "text": "inteligensia"
+  },
+  {
+    "id": "trenekonomi",
+    "text": "trenekonomi"
+  },
+  {
+    "id": "pitutur",
+    "text": "pitutur"
+  },
+  {
+    "id": "suratkabargenta",
+    "text": "suratkabargenta"
+  },
+  {
+    "id": "posbali",
+    "text": "posbali"
+  },
+  {
+    "id": "sidoarjokini",
+    "text": "sidoarjokini"
+  },
+  {
+    "id": "jawatimuran",
+    "text": "jawatimuran"
+  },
+  {
+    "id": "kabarmuda",
+    "text": "kabarmuda"
+  },
+  {
+    "id": "pontianakpost.jawapos.com",
+    "text": "pontianakpost.jawapos.com"
+  },
+  {
+    "id": "boenda",
+    "text": "boenda"
+  },
+  {
+    "id": "suratdokter",
+    "text": "suratdokter"
+  },
+  {
+    "id": "newsandalas",
+    "text": "newsandalas"
+  },
+  {
+    "id": "lombokpost.jawapos.com",
+    "text": "lombokpost.jawapos.com"
+  },
+  {
+    "id": "marhenparekraf",
+    "text": "marhenparekraf"
+  },
+  {
+    "id": "publiksatu",
+    "text": "publiksatu"
+  },
+  {
+    "id": "cekat",
+    "text": "cekat"
+  },
+  {
+    "id": "www.korantimor.com",
+    "text": "www.korantimor.com"
+  },
+  {
+    "id": "beritantb",
+    "text": "beritantb"
+  },
+  {
+    "id": "vimanews",
+    "text": "vimanews"
+  },
+  {
+    "id": "tentangguru",
+    "text": "tentangguru"
+  },
+  {
+    "id": "kurusetra",
+    "text": "kurusetra"
+  },
+  {
+    "id": "berkala",
+    "text": "berkala"
+  },
+  {
+    "id": "bengkulunetwork",
+    "text": "bengkulunetwork"
+  },
+  {
+    "id": "halokreatif",
+    "text": "halokreatif"
+  },
+  {
+    "id": "kampusrepublika",
+    "text": "kampusrepublika"
+  },
+  {
+    "id": "bulutangkis",
+    "text": "bulutangkis"
+  },
+  {
+    "id": "boyanesia",
+    "text": "boyanesia"
+  },
+  {
+    "id": "nyantri",
+    "text": "nyantri"
+  },
+  {
+    "id": "kartumerah",
+    "text": "kartumerah"
+  },
+  {
+    "id": "ruzka",
+    "text": "ruzka"
+  },
+  {
+    "id": "ruangtekno",
+    "text": "ruangtekno"
+  },
+  {
+    "id": "impresi",
+    "text": "impresi"
+  },
+  {
+    "id": "magenta",
+    "text": "magenta"
+  },
+  {
+    "id": "antariksa",
+    "text": "antariksa"
+  },
+  {
+    "id": "ibuwarung",
+    "text": "ibuwarung"
+  },
+  {
+    "id": "senandika",
+    "text": "senandika"
+  },
+  {
+    "id": "oohya",
+    "text": "oohya"
+  },
+  {
+    "id": "digitaldonat",
+    "text": "digitaldonat"
+  },
+  {
+    "id": "sulselexperience",
+    "text": "sulselexperience"
+  },
+  {
+    "id": "www.prokal.co",
+    "text": "www.prokal.co"
+  },
+  {
+    "id": "obortimur",
+    "text": "obortimur"
+  },
+  {
+    "id": "balpos",
+    "text": "balpos"
+  },
+  {
+    "id": "gemalantang",
+    "text": "gemalantang"
+  },
+  {
+    "id": "pande",
+    "text": "pande"
+  },
+  {
+    "id": "kabarutara",
+    "text": "kabarutara"
+  },
+  {
+    "id": "cilacapkekinian",
+    "text": "cilacapkekinian"
+  },
+  {
+    "id": "grahamedia",
+    "text": "grahamedia"
+  },
+  {
+    "id": "pelitajambi",
+    "text": "pelitajambi"
+  },
+  {
+    "id": "akuratsumsel",
+    "text": "akuratsumsel"
+  },
+  {
+    "id": "adanu",
+    "text": "adanu"
+  },
+  {
+    "id": "bontangku",
+    "text": "bontangku"
+  },
+  {
+    "id": "tintaglobal",
+    "text": "tintaglobal"
+  },
+  {
+    "id": "ekstensinews",
+    "text": "ekstensinews"
+  },
+  {
+    "id": "www.jurnallugas.com",
+    "text": "www.jurnallugas.com"
+  },
+  {
+    "id": "jatimjuara",
+    "text": "jatimjuara"
+  },
+  {
+    "id": "khazanahpopuler",
+    "text": "khazanahpopuler"
+  },
+  {
+    "id": "klikmedianetwork",
+    "text": "klikmedianetwork"
+  },
+  {
+    "id": "bermuara",
+    "text": "bermuara"
+  },
+  {
+    "id": "jambiline",
+    "text": "jambiline"
+  },
+  {
+    "id": "radarbanjarmasin.jawapos.com",
+    "text": "radarbanjarmasin.jawapos.com"
+  },
+  {
+    "id": "3belas",
+    "text": "3belas"
+  },
+  {
+    "id": "ceposonline",
+    "text": "ceposonline"
+  },
+  {
+    "id": "radarsitubondo.jawapos.com",
+    "text": "radarsitubondo.jawapos.com"
+  },
+  {
+    "id": "rehatkopi",
+    "text": "rehatkopi"
+  },
+  {
+    "id": "tatarmedia",
+    "text": "tatarmedia"
+  },
+  {
+    "id": "prokhatulistiwa",
+    "text": "prokhatulistiwa"
+  },
+  {
+    "id": "centermedia",
+    "text": "centermedia"
+  },
+  {
+    "id": "www.ibenews.id",
+    "text": "www.ibenews.id"
+  },
+  {
+    "id": "dailyjatim",
+    "text": "dailyjatim"
+  },
+  {
+    "id": "panturapost",
+    "text": "panturapost"
+  },
+  {
+    "id": "www.portalbanjarnegara.com",
+    "text": "www.portalbanjarnegara.com"
+  },
+  {
+    "id": "harianmataraman",
+    "text": "harianmataraman"
+  },
+  {
+    "id": "penaonline",
+    "text": "penaonline"
+  },
+  {
+    "id": "baione",
+    "text": "baione"
+  },
+  {
+    "id": "pantaumedia",
+    "text": "pantaumedia"
+  },
+  {
+    "id": "jombangbanget.jawapos.com",
+    "text": "jombangbanget.jawapos.com"
+  },
+  {
+    "id": "radarpurworejo.jawapos.com",
+    "text": "radarpurworejo.jawapos.com"
+  },
+  {
+    "id": "akurattekno",
+    "text": "akurattekno"
+  },
+  {
+    "id": "radarbuleleng.jawapos.com",
+    "text": "radarbuleleng.jawapos.com"
+  },
+  {
+    "id": "radarnganjuk.jawapos.com",
+    "text": "radarnganjuk.jawapos.com"
+  },
+  {
+    "id": "radarsurabayabisnis.jawapos.com",
+    "text": "radarsurabayabisnis.jawapos.com"
+  },
+  {
+    "id": "radarpasuruan.jawapos.com",
+    "text": "radarpasuruan.jawapos.com"
+  },
+  {
+    "id": "radarlawu.jawapos.com",
+    "text": "radarlawu.jawapos.com"
+  },
+  {
+    "id": "halojember.jawapos.com",
+    "text": "halojember.jawapos.com"
+  },
+  {
+    "id": "radarmalioboro.jawapos.com",
+    "text": "radarmalioboro.jawapos.com"
+  },
+  {
+    "id": "jembranaexpress.jawapos.com",
+    "text": "jembranaexpress.jawapos.com"
+  },
+  {
+    "id": "radarpati.jawapos.com",
+    "text": "radarpati.jawapos.com"
+  },
+  {
+    "id": "riaupos.jawapos.com",
+    "text": "riaupos.jawapos.com"
+  },
+  {
+    "id": "metropekalongan.jawapos.com",
+    "text": "metropekalongan.jawapos.com"
+  },
+  {
+    "id": "blitarkawentar.jawapos.com",
+    "text": "blitarkawentar.jawapos.com"
+  },
+  {
+    "id": "radarlamongan.jawapos.com",
+    "text": "radarlamongan.jawapos.com"
+  },
+  {
+    "id": "radarmajapahit.jawapos.com",
+    "text": "radarmajapahit.jawapos.com"
+  },
+  {
+    "id": "solobalapan.jawapos.com",
+    "text": "solobalapan.jawapos.com"
+  },
+  {
+    "id": "radarbangkalan.jawapos.com",
+    "text": "radarbangkalan.jawapos.com"
+  },
+  {
+    "id": "radarbatu.jawapos.com",
+    "text": "radarbatu.jawapos.com"
+  },
+  {
+    "id": "radarbonang.jawapos.com",
+    "text": "radarbonang.jawapos.com"
+  },
+  {
+    "id": "radarsampit.jawapos.com",
+    "text": "radarsampit.jawapos.com"
+  },
+  {
+    "id": "metrodaily.jawapos.com",
+    "text": "metrodaily.jawapos.com"
+  },
+  {
+    "id": "padek.jawapos.com",
+    "text": "padek.jawapos.com"
+  },
+  {
+    "id": "sumutpos.jawapos.com",
+    "text": "sumutpos.jawapos.com"
+  },
+  {
+    "id": "kaltimpost.jawapos.com",
+    "text": "kaltimpost.jawapos.com"
+  },
+  {
+    "id": "balikpapantv",
+    "text": "balikpapantv"
+  },
+  {
+    "id": "www.kapefm.com",
+    "text": "www.kapefm.com"
+  },
+  {
+    "id": "radartarakan.jawapos.com",
+    "text": "radartarakan.jawapos.com"
+  },
+  {
+    "id": "batampos.jawapos.com",
+    "text": "batampos.jawapos.com"
+  },
+  {
+    "id": "kaltengpos",
+    "text": "kaltengpos"
+  },
+  {
+    "id": "beraupost.jawapos.com",
+    "text": "beraupost.jawapos.com"
+  },
+  {
+    "id": "sapos",
+    "text": "sapos"
+  },
+  {
+    "id": "akuratsumut",
+    "text": "akuratsumut"
+  },
+  {
+    "id": "radarbogor.jawapos.com",
+    "text": "radarbogor.jawapos.com"
+  },
+  {
+    "id": "indozonezcampus",
+    "text": "indozonezcampus"
+  },
+  {
+    "id": "palembangjawapos",
+    "text": "palembangjawapos"
+  },
+  {
+    "id": "tangsel.jawapos.com",
+    "text": "tangsel.jawapos.com"
+  },
+  {
+    "id": "cirebon.jawapos.com",
+    "text": "cirebon.jawapos.com"
+  },
+  {
+    "id": "bandungjawapos",
+    "text": "bandungjawapos"
+  },
+  {
+    "id": "banyumasjawapos",
+    "text": "banyumasjawapos"
+  },
+  {
+    "id": "metropolitan.jawapos.com",
+    "text": "metropolitan.jawapos.com"
+  },
+  {
+    "id": "bogor.jawapos.com",
+    "text": "bogor.jawapos.com"
+  },
+  {
+    "id": "otoviralnews",
+    "text": "otoviralnews"
+  },
+  {
+    "id": "medan.jawapos.com",
+    "text": "medan.jawapos.com"
+  },
+  {
+    "id": "plutkumkmkabbandung",
+    "text": "plutkumkmkabbandung"
+  },
+  {
+    "id": "plutkumkm",
+    "text": "plutkumkm"
+  },
+  {
+    "id": "plutkumkmkuningan",
+    "text": "plutkumkmkuningan"
+  },
+  {
+    "id": "plutkumkmjember",
+    "text": "plutkumkmjember"
+  },
+  {
+    "id": "plutkumkmmamujutengah",
+    "text": "plutkumkmmamujutengah"
+  },
+  {
+    "id": "plutkumkmsumut",
+    "text": "plutkumkmsumut"
+  },
+  {
+    "id": "plutkumkmbintan",
+    "text": "plutkumkmbintan"
+  },
+  {
+    "id": "plutkumkmriau",
+    "text": "plutkumkmriau"
+  },
+  {
+    "id": "plutkumkmmaros",
+    "text": "plutkumkmmaros"
+  },
+  {
+    "id": "plutkumkmmaluku",
+    "text": "plutkumkmmaluku"
+  },
+  {
+    "id": "plutkumkmkabupatenpekalongan",
+    "text": "plutkumkmkabupatenpekalongan"
+  },
+  {
+    "id": "plutkumkmbatam",
+    "text": "plutkumkmbatam"
+  },
+  {
+    "id": "plutkumkmkotabatu",
+    "text": "plutkumkmkotabatu"
+  },
+  {
+    "id": "plutkumkmdairi",
+    "text": "plutkumkmdairi"
+  },
+  {
+    "id": "plutkumkmkabmalang",
+    "text": "plutkumkmkabmalang"
+  },
+  {
+    "id": "plutkumkmkabpekalongan",
+    "text": "plutkumkmkabpekalongan"
+  },
+  {
+    "id": "plutkumkmmagelang",
+    "text": "plutkumkmmagelang"
+  },
+  {
+    "id": "plutkumkmsumbar",
+    "text": "plutkumkmsumbar"
+  },
+  {
+    "id": "pro24jam",
+    "text": "pro24jam"
+  },
+  {
+    "id": "realtimes",
+    "text": "realtimes"
+  },
+  {
+    "id": "pbdpost",
+    "text": "pbdpost"
+  },
+  {
+    "id": "www.rumahberita.co.id",
+    "text": "www.rumahberita.co.id"
+  },
+  {
+    "id": "infolintar",
+    "text": "infolintar"
+  },
+  {
+    "id": "mangaloka",
+    "text": "mangaloka"
+  },
+  {
+    "id": "acehpolitika",
+    "text": "acehpolitika"
+  },
+  {
+    "id": "onekliknews",
+    "text": "onekliknews"
+  },
+  {
+    "id": "nawacitapost",
+    "text": "nawacitapost"
+  },
+  {
+    "id": "harianjurnalpost",
+    "text": "harianjurnalpost"
+  },
+  {
+    "id": "teritorial24",
+    "text": "teritorial24"
+  },
+  {
+    "id": "sapanusa",
+    "text": "sapanusa"
+  },
+  {
+    "id": "www.corner.co.id",
+    "text": "www.corner.co.id"
+  },
+  {
+    "id": "jurnalbatam",
+    "text": "jurnalbatam"
+  },
+  {
+    "id": "klikbarito",
+    "text": "klikbarito"
+  },
+  {
+    "id": "www.redaksitoday.com",
+    "text": "www.redaksitoday.com"
+  },
+  {
+    "id": "newyorkreaders",
+    "text": "newyorkreaders"
+  },
+  {
+    "id": "www.teaser.id",
+    "text": "www.teaser.id"
+  },
+  {
+    "id": "portalbontang",
+    "text": "portalbontang"
+  },
+  {
+    "id": "www.bintantoday.com",
+    "text": "www.bintantoday.com"
+  },
+  {
+    "id": "5news",
+    "text": "5news"
+  },
+  {
+    "id": "www.jalapantura.com",
+    "text": "www.jalapantura.com"
+  },
+  {
+    "id": "www.xposisi.com",
+    "text": "www.xposisi.com"
+  },
+  {
+    "id": "banera",
+    "text": "banera"
+  },
+  {
+    "id": "www.metrosergai.com",
+    "text": "www.metrosergai.com"
+  },
+  {
+    "id": "mojokbaca",
+    "text": "mojokbaca"
+  },
+  {
+    "id": "jurnalisnetwork",
+    "text": "jurnalisnetwork"
+  },
+  {
+    "id": "www.lihatjabar.com",
+    "text": "www.lihatjabar.com"
+  },
+  {
+    "id": "beritatekno",
+    "text": "beritatekno"
+  },
+  {
+    "id": "narasidata",
+    "text": "narasidata"
+  },
+  {
+    "id": "www.akuhijau.com",
+    "text": "www.akuhijau.com"
+  },
+  {
+    "id": "www.bukamata.co",
+    "text": "www.bukamata.co"
+  },
+  {
+    "id": "www.voxyouths.com",
+    "text": "www.voxyouths.com"
+  },
+  {
+    "id": "harian9",
+    "text": "harian9"
+  },
+  {
+    "id": "www.suarapembaruan.news",
+    "text": "www.suarapembaruan.news"
+  },
+  {
+    "id": "www.urbaninfo.id",
+    "text": "www.urbaninfo.id"
+  },
+  {
+    "id": "www.kapansaja.id",
+    "text": "www.kapansaja.id"
+  },
+  {
+    "id": "www.reportasentt.com",
+    "text": "www.reportasentt.com"
+  },
+  {
+    "id": "www.sportlinknews.com",
+    "text": "www.sportlinknews.com"
+  },
+  {
+    "id": "www.sportivo.id",
+    "text": "www.sportivo.id"
+  },
+  {
+    "id": "www.mimbarmerdeka.com",
+    "text": "www.mimbarmerdeka.com"
+  },
+  {
+    "id": "www.citrasumsel.com",
+    "text": "www.citrasumsel.com"
+  },
+  {
+    "id": "www.manggisnews.com",
+    "text": "www.manggisnews.com"
+  },
+  {
+    "id": "www.inilahkito.com",
+    "text": "www.inilahkito.com"
+  },
+  {
+    "id": "www.infomase.id",
+    "text": "www.infomase.id"
+  },
+  {
+    "id": "auroranews.co.id",
+    "text": "auroranews.co.id"
+  },
+  {
+    "id": "wahdatuna",
+    "text": "wahdatuna"
+  },
+  {
+    "id": "www.centrea.id",
+    "text": "www.centrea.id"
+  },
+  {
+    "id": "rekomkita",
+    "text": "rekomkita"
+  },
+  {
+    "id": "www.media24.id",
+    "text": "www.media24.id"
+  },
+  {
+    "id": "injurnal",
+    "text": "injurnal"
+  },
+  {
+    "id": "www.talknolagi.com",
+    "text": "www.talknolagi.com"
+  },
+  {
+    "id": "zonapertahanan",
+    "text": "zonapertahanan"
+  },
+  {
+    "id": "bineqa",
+    "text": "bineqa"
+  },
+  {
+    "id": "ronajateng",
+    "text": "ronajateng"
+  },
+  {
+    "id": "www.ringtimes.id",
+    "text": "www.ringtimes.id"
+  },
+  {
+    "id": "popline",
+    "text": "popline"
+  },
+  {
+    "id": "www.neohistoria.com",
+    "text": "www.neohistoria.com"
+  },
+  {
+    "id": "limitnews",
+    "text": "limitnews"
+  },
+  {
+    "id": "sindikatpost",
+    "text": "sindikatpost"
+  },
+  {
+    "id": "matapersindonesia",
+    "text": "matapersindonesia"
+  },
+  {
+    "id": "azmedia",
+    "text": "azmedia"
+  },
+  {
+    "id": "www.panjinasional.net",
+    "text": "www.panjinasional.net"
+  },
+  {
+    "id": "www.smartparent.id",
+    "text": "www.smartparent.id"
+  },
+  {
+    "id": "www.bincangbincangmobil.com",
+    "text": "www.bincangbincangmobil.com"
+  },
+  {
+    "id": "www.belihape.id",
+    "text": "www.belihape.id"
+  },
+  {
+    "id": "portalseleb",
+    "text": "portalseleb"
+  },
+  {
+    "id": "bragapos",
+    "text": "bragapos"
+  },
+  {
+    "id": "sultranetwork",
+    "text": "sultranetwork"
+  },
+  {
+    "id": "portalmanggarai",
+    "text": "portalmanggarai"
+  },
+  {
+    "id": "hotlombok",
+    "text": "hotlombok"
+  },
+  {
+    "id": "mangentemaluku",
+    "text": "mangentemaluku"
+  },
+  {
+    "id": "timeslampung",
+    "text": "timeslampung"
+  },
+  {
+    "id": "kalananews",
+    "text": "kalananews"
+  },
+  {
+    "id": "okelihat",
+    "text": "okelihat"
+  },
+  {
+    "id": "empiris",
+    "text": "empiris"
+  },
+  {
+    "id": "www.biskom.id",
+    "text": "www.biskom.id"
+  },
+  {
+    "id": "formatberita",
+    "text": "formatberita"
+  },
+  {
+    "id": "bojonegorotv",
+    "text": "bojonegorotv"
+  },
+  {
+    "id": "aslinews",
+    "text": "aslinews"
+  },
+  {
+    "id": "www.indonesiamove.com",
+    "text": "www.indonesiamove.com"
+  },
+  {
+    "id": "www.planetberita.com",
+    "text": "www.planetberita.com"
+  },
+  {
+    "id": "guetilang",
+    "text": "guetilang"
+  },
+  {
+    "id": "www.insibernews.com",
+    "text": "www.insibernews.com"
+  },
+  {
+    "id": "www.sketsanusantara.id",
+    "text": "www.sketsanusantara.id"
+  },
+  {
+    "id": "esensi",
+    "text": "esensi"
+  },
+  {
+    "id": "portaloka",
+    "text": "portaloka"
+  },
+  {
+    "id": "waktunyabola",
+    "text": "waktunyabola"
+  },
+  {
+    "id": "jogjapos",
+    "text": "jogjapos"
+  },
+  {
+    "id": "connec",
+    "text": "connec"
+  },
+  {
+    "id": "www.kabarmojokerto.id",
+    "text": "www.kabarmojokerto.id"
+  },
+  {
+    "id": "waingapuhits",
+    "text": "waingapuhits"
+  },
+  {
+    "id": "www.bekasi24jam.com",
+    "text": "www.bekasi24jam.com"
+  },
+  {
+    "id": "signal24",
+    "text": "signal24"
+  },
+  {
+    "id": "juaradapur",
+    "text": "juaradapur"
+  },
+  {
+    "id": "lambusi",
+    "text": "lambusi"
+  },
+  {
+    "id": "gelakberita",
+    "text": "gelakberita"
+  },
+  {
+    "id": "krimsusmedia",
+    "text": "krimsusmedia"
+  },
+  {
+    "id": "bikinberita",
+    "text": "bikinberita"
+  },
+  {
+    "id": "beritatentangbanyuwangi",
+    "text": "beritatentangbanyuwangi"
+  },
+  {
+    "id": "bharindojakartaindonesia",
+    "text": "bharindojakartaindonesia"
+  },
+  {
+    "id": "tagarinfo",
+    "text": "tagarinfo"
+  },
+  {
+    "id": "pandhalungantimur",
+    "text": "pandhalungantimur"
+  },
+  {
+    "id": "sulawesitoday",
+    "text": "sulawesitoday"
+  },
+  {
+    "id": "daulat",
+    "text": "daulat"
+  },
+  {
+    "id": "nusantarainside",
+    "text": "nusantarainside"
+  },
+  {
+    "id": "soker",
+    "text": "soker"
+  },
+  {
+    "id": "versiterkini",
+    "text": "versiterkini"
+  },
+  {
+    "id": "semarangstraight",
+    "text": "semarangstraight"
+  },
+  {
+    "id": "timorline",
+    "text": "timorline"
+  },
+  {
+    "id": "jejaknusa",
+    "text": "jejaknusa"
+  },
+  {
+    "id": "liaistifhama",
+    "text": "liaistifhama"
+  },
+  {
+    "id": "medialangit",
+    "text": "medialangit"
+  },
+  {
+    "id": "suarasemarang",
+    "text": "suarasemarang"
+  },
+  {
+    "id": "itechnologi",
+    "text": "itechnologi"
+  },
+  {
+    "id": "lenteracirebon",
+    "text": "lenteracirebon"
+  },
+  {
+    "id": "koranmedia",
+    "text": "koranmedia"
+  },
+  {
+    "id": "www.wartasasambo.com",
+    "text": "www.wartasasambo.com"
+  },
+  {
+    "id": "ujungpena",
+    "text": "ujungpena"
+  },
+  {
+    "id": "www.bandunghariini.com",
+    "text": "www.bandunghariini.com"
+  },
+  {
+    "id": "redaksi88",
+    "text": "redaksi88"
+  },
+  {
+    "id": "swarnadwipa",
+    "text": "swarnadwipa"
+  },
+  {
+    "id": "cakrakrisnafm",
+    "text": "cakrakrisnafm"
+  },
+  {
+    "id": "bandungtv",
+    "text": "bandungtv"
+  },
+  {
+    "id": "promedianews",
+    "text": "promedianews"
+  },
+  {
+    "id": "ulasbandung",
+    "text": "ulasbandung"
+  },
+  {
+    "id": "fajarsukabumi",
+    "text": "fajarsukabumi"
+  },
+  {
+    "id": "subanginfo",
+    "text": "subanginfo"
+  },
+  {
+    "id": "kabar24",
+    "text": "kabar24"
+  },
+  {
+    "id": "wipanews",
+    "text": "wipanews"
+  },
+  {
+    "id": "majalahnarasi24",
+    "text": "majalahnarasi24"
+  },
+  {
+    "id": "www.sigijateng.id",
+    "text": "www.sigijateng.id"
+  },
+  {
+    "id": "pandhalungan",
+    "text": "pandhalungan"
+  },
+  {
+    "id": "www.suararembang.com",
+    "text": "www.suararembang.com"
+  },
+  {
+    "id": "www.inusa.id",
+    "text": "www.inusa.id"
+  },
+  {
+    "id": "www.eurekawoman.com",
+    "text": "www.eurekawoman.com"
+  },
+  {
+    "id": "www.baliinyourhands.com",
+    "text": "www.baliinyourhands.com"
+  },
+  {
+    "id": "www.majalahprosekutor.com",
+    "text": "www.majalahprosekutor.com"
+  },
+  {
+    "id": "www.infojatengterkini.com",
+    "text": "www.infojatengterkini.com"
+  },
+  {
+    "id": "www.g-news.id",
+    "text": "www.g-news.id"
+  },
+  {
+    "id": "www.jatengbaru.com",
+    "text": "www.jatengbaru.com"
+  },
+  {
+    "id": "www.sabanapedia.com",
+    "text": "www.sabanapedia.com"
+  },
+  {
+    "id": "www.soerakarta.id",
+    "text": "www.soerakarta.id"
+  },
+  {
+    "id": "www.ragamnuansa.com",
+    "text": "www.ragamnuansa.com"
+  },
+  {
+    "id": "www.konteks.co.id",
+    "text": "www.konteks.co.id"
+  },
+  {
+    "id": "www.infopekalongan.id",
+    "text": "www.infopekalongan.id"
+  },
+  {
+    "id": "tv.sinpo.id",
+    "text": "tv.sinpo.id"
+  },
+  {
+    "id": "www.realitantt.com",
+    "text": "www.realitantt.com"
+  },
+  {
+    "id": "www.orbitnasional.co.id",
+    "text": "www.orbitnasional.co.id"
+  },
+  {
+    "id": "www.panennews.com",
+    "text": "www.panennews.com"
+  },
+  {
+    "id": "www.theprismapost.com",
+    "text": "www.theprismapost.com"
+  },
+  {
+    "id": "www.redaksibaru.id",
+    "text": "www.redaksibaru.id"
+  },
+  {
+    "id": "www.inspirasitv.com",
+    "text": "www.inspirasitv.com"
+  },
+  {
+    "id": "www.toplampung.com",
+    "text": "www.toplampung.com"
+  },
+  {
+    "id": "www.rembang24jam.com",
+    "text": "www.rembang24jam.com"
+  },
+  {
+    "id": "www.tritimes.id",
+    "text": "www.tritimes.id"
+  },
+  {
+    "id": "www.suaragunung.com",
+    "text": "www.suaragunung.com"
+  },
+  {
+    "id": "www.lensaluwutimur.com",
+    "text": "www.lensaluwutimur.com"
+  },
+  {
+    "id": "www.buolonline.com",
+    "text": "www.buolonline.com"
+  },
+  {
+    "id": "www.fourteenmedia.id",
+    "text": "www.fourteenmedia.id"
+  },
+  {
+    "id": "www.waranesia.com",
+    "text": "www.waranesia.com"
+  },
+  {
+    "id": "www.indonesians.id",
+    "text": "www.indonesians.id"
+  },
+  {
+    "id": "www.jejaksumsel.com",
+    "text": "www.jejaksumsel.com"
+  },
+  {
+    "id": "www.loopsmedia.com",
+    "text": "www.loopsmedia.com"
+  },
+  {
+    "id": "www.bicaraPolitik.id",
+    "text": "www.bicaraPolitik.id"
+  },
+  {
+    "id": "www.jurnalpalembang.com",
+    "text": "www.jurnalpalembang.com"
+  },
+  {
+    "id": "www.sriwijayaupdate.com",
+    "text": "www.sriwijayaupdate.com"
+  },
+  {
+    "id": "www.medan24news.com",
+    "text": "www.medan24news.com"
+  },
+  {
+    "id": "www.matabangsa.com",
+    "text": "www.matabangsa.com"
+  },
+  {
+    "id": "www.ewonosobo.com",
+    "text": "www.ewonosobo.com"
+  },
+  {
+    "id": "www.jurnipos.com",
+    "text": "www.jurnipos.com"
+  },
+  {
+    "id": "www.metrojambi.com",
+    "text": "www.metrojambi.com"
+  },
+  {
+    "id": "www.berita-indo.id",
+    "text": "www.berita-indo.id"
+  },
+  {
+    "id": "www.chillpedia.com",
+    "text": "www.chillpedia.com"
+  },
+  {
+    "id": "www.wartajatim.co.id",
+    "text": "www.wartajatim.co.id"
+  },
+  {
+    "id": "www.topsumut.com",
+    "text": "www.topsumut.com"
+  },
+  {
+    "id": "www.kabarbuen.com",
+    "text": "www.kabarbuen.com"
+  },
+  {
+    "id": "www.arahmedia.com",
+    "text": "www.arahmedia.com"
+  },
+  {
+    "id": "www.anjanistory.com",
+    "text": "www.anjanistory.com"
+  },
+  {
+    "id": "www.sultengonline.com",
+    "text": "www.sultengonline.com"
+  },
+  {
+    "id": "www.naker.news",
+    "text": "www.naker.news"
+  },
+  {
+    "id": "www.kabar-malaka.com",
+    "text": "www.kabar-malaka.com"
+  },
+  {
+    "id": "www.suaraglobal.id",
+    "text": "www.suaraglobal.id"
+  },
+  {
+    "id": "www.jogjaberita.com",
+    "text": "www.jogjaberita.com"
+  },
+  {
+    "id": "www.sebaran.id",
+    "text": "www.sebaran.id"
+  },
+  {
+    "id": "www.kritikel.id",
+    "text": "www.kritikel.id"
+  },
+  {
+    "id": "www.mahaberita.com",
+    "text": "www.mahaberita.com"
+  },
+  {
+    "id": "www.beritaza.com",
+    "text": "www.beritaza.com"
+  },
+  {
+    "id": "www.serunimedia.com",
+    "text": "www.serunimedia.com"
+  },
+  {
+    "id": "www.firnandoganinduto.com",
+    "text": "www.firnandoganinduto.com"
+  },
+  {
+    "id": "www.viralntt.com",
+    "text": "www.viralntt.com"
+  },
+  {
+    "id": "www.pancaronamedia.com",
+    "text": "www.pancaronamedia.com"
+  },
+  {
+    "id": "www.gayakeren.id",
+    "text": "www.gayakeren.id"
+  },
+  {
+    "id": "www.liputan7.id",
+    "text": "www.liputan7.id"
+  },
+  {
+    "id": "jabar.akurat.co",
+    "text": "jabar.akurat.co"
+  },
+  {
+    "id": "www.duniaparlemen.id",
+    "text": "www.duniaparlemen.id"
+  }
+]
